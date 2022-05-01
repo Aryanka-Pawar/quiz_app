@@ -1,0 +1,101 @@
+[
+    {
+        "0": "The earth is at the largest distance from the sun (Apehelion) on ________  ",
+        "1": "The seasonal contrasts are maximum in ________ ",
+        "2": "Geostationary orbit is at a height of ________ ",
+        "3": "A radio broadcast from Delhi on Monday at 7.30 p.m. is heard at New York on ________ ",
+        "4": "The position of the sun is annually twice overhead at Singapore because of the ________ ",
+        "5": "Insolation heats up the land masses more quickly than the water bodies because ________ ",
+        "6": "The sun reaches its maximum angular distance from the equator at the ________ ",
+        "7": "If news is broadcast from London at 10:30 AM, at what time it will be heard at Baghdad (45°E)?",
+        "8": "If the earth's direction of rotation is reversed, what would be the IST when it is noon at the International Date Line?",
+        "9": "Which of the following is the International Date line?"
+    },
+    {
+        "0": {
+            "a": "June 21st",
+            "b": "January 3rd",
+            "c": "July 4th",
+            "d": "September 23rd"
+        },
+        "1": {
+            "a": "Low latitudes",
+            "b": "Mid-latitudes",
+            "c": "Sub tropics",
+            "d": "High latitudes"
+        },
+        "2": {
+            "a": "6 km",
+            "b": "1000 km",
+            "c": "3600 km",
+            "d": "36,000 km"
+        },
+        "3": {
+            "a": "Tuesday at 8.35 p.m.",
+            "b": "The same day at 7.30 p.m.",
+            "c": "The same day at 7:30 a.m.",
+            "d": "Sunday at 8.35 p.m."
+        },
+        "4": {
+            "a": "Rotation of the earth",
+            "b": "Revolution of the earth",
+            "c": "Elliptical path of the earth's orbit",
+            "d": "Parallelism of inclined axis of the earth"
+        },
+        "5": {
+            "a": "Water is liquid",
+            "b": "Landmasses are solid",
+            "c": "Water needs more energy to get warm",
+            "d": "Rocks are bad conductors of heat"
+        },
+        "6": {
+            "a": "Zenith",
+            "b": "Solstice",
+            "c": "Equinox",
+            "d": "Noontime"
+        },
+        "7": {
+            "a": "7:30 am",
+            "b": "9:00 am",
+            "c": "1:30 pm",
+            "d": "12:00 Noon"
+        },
+        "8": {
+            "a": "06.30 hrs",
+            "b": "05.30 hrs",
+            "c": "18.30 hrs",
+            "d": "17.30 hrs"
+        },
+        "9": {
+            "a": "Equator",
+            "b": "0° longitude",
+            "c": "90° eastern longitude",
+            "d": "180° longitude"
+        }
+    },
+    {
+        "0": "July 4th",
+        "1": "Mid-latitudes",
+        "2": "36,000 km",
+        "3": "The same day at 7:30 a.m.",
+        "4": "Parallelism of inclined axis of the earth",
+        "5": "Water needs more energy to get warm",
+        "6": "Solstice",
+        "7": "1:30 pm",
+        "8": "06.30 hrs",
+        "9": "180° longitude"
+    },
+    {
+        "0": "Answer : \n\nJuly 4th\n\n\n\nExplanation: \n\nAt about 11 a.m. EDT (1500 GMT) on the Fourth of July, the Earth will reach that point in its orbit where it is farthest from the sun called aphelion, this location in Earth's orbit puts the planet about 94.5 million miles (152 million kilometers) from the sun.\n",
+        "1": "Answer : \n\nMid-latitudes\n\n\n\nExplanation: \n\nSeasonal contrast are maximum in mid latitude.\n",
+        "2": "Answer : \n\n36,000 km\n\n\n\nExplanation: \n\nThe geostationary orbit of the earth is at a distance of about 36000 km from the earth's surface.\n",
+        "3": "Answer : \n\nThe same day at 7:30 a.m.\n\n\n\nExplanation: \n\nA radio broadcast from Delhi on Monday at 7.30 p.m. is heard at New York on the same day at 7:30 a.m..\n",
+        "4": "Answer : \n\nParallelism of inclined axis of the earth\n\n\n\nExplanation: \n\nThe position of the sun is annually twice overhead at Singapore because of the parallelism of inclined axis of the earth.\n",
+        "5": "Answer : \n\nWater needs more energy to get warm\n\n\n\nExplanation: \n\nThis is due to the fact that most land surfaces are darker than water which of course means more absorption of solar radiation and heat. Since land absorbs more solar radiation the land surface retains more heat as do the vegetation for energy. Thus, land surfaces warm more quickly than water.\n",
+        "6": "Answer : \n\nSolstice\n\n\n\nExplanation: \n\nSince the ecliptic is tilted 23.5 degrees with respect to the celestial equator, the Sun's maximum angular distance from the celestial equator is 23.5 degrees. This happens at the solstices.\n",
+        "7": "Answer : \n\n1:30 pm\n\n\n\nExplanation: \n\nTime at London (0° longitude) is 10:30 am. Baghdad is at 45°E.\nDifference in longitudes = 45°\nFor every 1° longitude, there is a difference of 4 minutes\nFor 45° longitude there will be a difference of = (45*4)minutes\n= 180 minutes or 3 hours\nAs Baghdad is towards the east of London, it'll be ahead of time at London\ntime at Baghdad = (10:30am + 3 hours)\n= 1:30pm",
+        "8": "Answer : \n\n06.30 hrs\n\n\n\nExplanation: \n\nIndia is a large country spanning over 30° of longitude. It is unusual in having a single time zone all over the country, 5½ hours fast. If the direction of rotation of earth is reversed then Indian Standard Time will be – 5½ hr. When it is noon the time is 12:00; that will be 6:30 A.M. in place of 17:30 P.M. or 5:30 P.M.\n",
+        "9": "Answer : \n\n180° longitude\n\n\n\nExplanation: \n\n180° longitude is the International Date line"
+    }
+
+]

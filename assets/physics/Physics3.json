@@ -1,0 +1,101 @@
+[
+    {
+        "0": "For motion in two or three dimensions, what is the angle between velocity and acceleration vectors?",
+        "1": "A cyclist moves along a circular path of radius 70m. If he completes one round in 11s, calculate the total length of a path.",
+        "2": "An object thrown from an aeroplane is an example for ____________",
+        "3": "A body is projected horizontally from the top of a cliff with a velocity of 9.8m/s. What time elapses before horizontal and vertical velocities become equal? Take g = 9.8m/s2",
+        "4": "A circular motion is an accelerated motion.",
+        "5": "What is the minimum number of coplanar vectors of different magnitudes which can give zero resultant?",
+        "6": "The net acceleration of a particle in circular motion is ___________",
+        "7": "A projectile fired from the ground follows a parabolic path. At what position will the speed of projectile be minimum?",
+        "8": "Two bullets are fired simultaneously, horizontally and with different speeds from the same place. Which bullet will hit the ground first?",
+        "9": "At the highest point of a projectile, its velocity and acceleration are at an angle of ___________"
+    },
+    {
+        "0": {
+            "a": "0°",
+            "b": "180°",
+            "c": "Between 0° and 180°",
+            "d": "90°"
+        },
+        "1": {
+            "a": "40m",
+            "b": "440m",
+            "c": "0m",
+            "d": "11m"
+        },
+        "2": {
+            "a": "Projectile motion",
+            "b": "Resolution of forces",
+            "c": "Composition of vectors",
+            "d": "Addition of vectors"
+        },
+        "3": {
+            "a": "9.8s",
+            "b": "0s",
+            "c": "10s",
+            "d": "1s"
+        },
+        "4": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Don't Know",
+            "d": "Sometimes"
+        },
+        "5": {
+            "a": "One",
+            "b": "Two",
+            "c": "Three",
+            "d": "Four"
+        },
+        "6": {
+            "a": "Towards the centre",
+            "b": "Always along the radius",
+            "c": "Irregular",
+            "d": "Circular in motion"
+        },
+        "7": {
+            "a": "At the top of the path",
+            "b": "At the beginning of the path",
+            "c": "While travelling along the path",
+            "d": "Never"
+        },
+        "8": {
+            "a": "The faster one",
+            "b": "Depends on their mass",
+            "c": "The slower one",
+            "d": "Both will reach simultaneously"
+        },
+        "9": {
+            "a": "0°",
+            "b": "45°",
+            "c": "90°",
+            "d": "180°"
+        }
+    },
+    {
+        "0": "Between 0° and 180°",
+        "1": "440m",
+        "2": "Projectile motion",
+        "3": "1s",
+        "4": "Yes",
+        "5": "Three",
+        "6": "Towards the centre",
+        "7": "At the top of the path",
+        "8": "Both will reach simultaneously",
+        "9": "90°"
+    },
+    {
+        "0": "Answer : \n\nBetween 0° and 180°\n\n\n\nExplanation: \n\nFor motion in one dimension, the velocity and acceleration are always along the same line either in the same direction or in opposite direction. For motion in two or three dimensions, the angle between velocity and acceleration vectors may have any value between 0° and 180°.",
+        "1": "Answer : \n\n440m\n\n\n\nExplanation: \n\nRadius of the circular path, r = 70m\nTime takes to complete one round, t = 11s\nTotal length of the path, s = 2πr = 2×22/7×70 = 440m.",
+        "2": "Answer : \n\nProjectile motion\n\n\n\nExplanation: \n\nA projectile is a name given to anybody which once thrown into space with some initial velocity, moves thereafter under the influence of gravity alone without being propelled by an engine or fuel. The path followed by a projectile is called its trajectory.",
+        "3": "Answer : \n\n1s\n\n\n\nExplanation: \n\nHorizontal velocity at any instant, vx = u = 9.8m/s\nVertical velocity at any instant, vy = 0 + gt = 9.8t\n9.8 = 9.8t\nt = 1s.",
+        "4": "Answer : \n\nYes\n\n\n\nExplanation: \n\nIn a uniform circular motion, the direction of the velocity vector which acts along the tangent to the path, remains constant. So circular motion is an accelerated motion.",
+        "5": "Answer : \n\nThree\n\n\n\nExplanation: \n\nIf three vectors can be represented by the three sides of a triangle taken in the same order, then their resultant is a zero vector.",
+        "6": "Answer : \n\nTowards the centre\n\n\n\nExplanation: \n\nThe net acceleration of a particle in a circular motion is towards the centre only if its speed is constant.",
+        "7": "Answer : \n\nAt the top of the path\n\n\n\nExplanation: \n\nThe speed of the projectile will be minimum at the top of the path. This is because a horizontal component of velocity will remain constant throughout the motion whereas the vertical component of the velocity is zero at the top.",
+        "8": "Answer : \n\nBoth will reach simultaneously\n\n\n\nExplanation: \n\n Both the bullets will reach simultaneously because\nT = √(2h/g) Time t does not depend on horizontal speed.",
+        "9": "Answer : \n\n90°\n\n\n\nExplanation: \n\nAt the highest point of projectile, it has only horizontal velocity while the acceleration due to gravity acts vertically downwards. Therefore they are at an angle of 90°."
+    }
+
+]

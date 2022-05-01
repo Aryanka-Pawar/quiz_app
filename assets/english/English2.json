@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Our task had been completed before sunset.",
+        "1": "The boy laughed at the beggar.",
+        "2": "The boys were playing Cricket.",
+        "3": "They drew a circle in the morning.",
+        "4": "They will demolish the entire block..",
+        "5": "We must respect the elders.",
+        "6": "We have warned you.",
+        "7": "Has anybody answered your question?",
+        "8": "The shopkeeper lowered the prices.",
+        "9": "One must keep one's promises."
+    },
+    {
+        "0": {
+            "a": "We completed our task before sunset.",
+            "b": "We have completed our task before sunset.",
+            "c": "We complete our task before sunset.",
+            "d": "We had completed our task before sunset."
+        },
+        "1": {
+            "a": "The beggar was laughed by the boy.",
+            "b": "The beggar was being laughed by the boy.",
+            "c": "The beggar was being laughed at by the boy.",
+            "d": "The beggar was laughed at by the boy."
+        },
+        "2": {
+            "a": "Cricket had been played by the boys.",
+            "b": "Cricket has been played by the boys.",
+            "c": "Cricket was played by the boys.",
+            "d": "Cricket was being played by the boys."
+        },
+        "3": {
+            "a": "A circle was being drawn by them in the morning.",
+            "b": "A circle was drawn by them in the morning.",
+            "c": "In the morning a circle have been drawn by them.",
+            "d": "A circle has been drawing since morning."
+        },
+        "4": {
+            "a": "The entire block is being demolished.",
+            "b": "The block may be demolished entirely.",
+            "c": "The entire block will have to be demolished by them",
+            "d": "The entire block will be demolished."
+        },
+        "5": {
+            "a": "The elders deserve respect from us.",
+            "b": "The elders must be respected.",
+            "c": "The elders must respected.",
+            "d": "Respect the elders we must."
+        },
+        "6": {
+            "a": "You have been warned.",
+            "b": "We have you warned.",
+            "c": "Warned you have been.",
+            "d": "Have you been warned."
+        },
+        "7": {
+            "a": "Your question has been answered?",
+            "b": "Anybody has answered your question?",
+            "c": "Has your question been answered?",
+            "d": "Have you answered your question?"
+        },
+        "8": {
+            "a": "The prices lowered by shopkeeper.",
+            "b": "The prices were lowered by shopkeeper.",
+            "c": "Down went prices.",
+            "d": "The shopkeeper got down the prices."
+        },
+        "9": {
+            "a": "One's promises are kept.",
+            "b": "Ones promises must kept.",
+            "c": "Ones promises were kept.",
+            "d": "One's promises must be kept."
+        }
+    },
+    {
+        "0": "We had completed our task before sunset.",
+        "1": "The beggar was laughed at by the boy.",
+        "2": "Cricket was being played by the boys.",
+        "3": "A circle was drawn by them in the morning.",
+        "4": "The entire block will be demolished.",
+        "5": "The elders must be respected.",
+        "6": "You have been warned.",
+        "7": "Has your question been answered?",
+        "8": "The prices were lowered by shopkeeper.",
+        "9": "One's promises must be kept."
+    },
+    {
+        "0": "Answer : \n\nWe had completed our task before sunset.\n\n\n\nExplanation: \n\nThe given sentence is in passive voice and it is in Past Perfect Tense.\nTo convert it into active voice, we just remove been from the given sentence and object (our)will be change into subject (We)",
+        "1": "Answer : \n\nThe beggar was laughed at by the boy.\n\n\n\nExplanation: \n\nGiven sentence is in Past indefinite (Past simple) tense and it is in the active voice. To change it into Passive voice Object (the boy) will become subject and subject (The beggar) will be object. We also use helping verb of past simple tense was with V3 form of the main verb. Keep it in mind that the preposition at must be retained with the verb.",
+        "2": "Answer : \n\nCricket was being played by the boys.\n\n\n\nExplanation: \n\nThe given sentence is in Past Continuous Tense and it is in active voice. We need to change it into Passive voice.",
+        "3": "Answer : \n\nA circle was drawn by them in the morning.\n\n\n\nExplanation: \n\nGiven sentence is in Past simple tense and it is in active voice, we need to change it into passive voice.",
+        "4": "Answer : \n\nThe entire block will be demolished.\n\n\n\nExplanation: \n\nThe given sentence contains one of Model verb (Model Verb = will, shall, can, may, might, could, might, must, would). It is in active voice.",
+        "5": "Answer : \n\nThe elders must be respected.\n\n\n\nExplanation: \n\nThe given sentence contains one of Model verb (Model Verb = will, shall, can, may, might, could, might, must, would). It is in active voice.",
+        "6": "Answer : \n\nYou have been warned.\n\n\n\nExplanation: \n\nGiven sentence is in Present Perfect tense and It is in active Voice.",
+        "7": "Answer : \n\nHas your question been answered?\n\n\n\nExplanation: \n\nThe sentence is an interrogative sentence and started with has. The passive voice will be also started with has",
+        "8": "Answer : \n\nThe prices were lowered by shopkeeper.\n\n\n\nExplanation: \n\nGiven sentence is in Past simple tense and it is in active voice, we need to change it into passive voice. ",
+        "9": "Answer : \n\nOne's promises must be kept.\n\n\n\nExplanation: \n\nThe subject 'One' has to be replaced with 'One's promises' keeping the tense same."
+    }
+
+]

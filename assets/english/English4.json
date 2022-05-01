@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Rajeev failed in the examination because none of his answers were _______ to the questions asked.",
+        "1": "There are _______ views on the issue of giving bonus to the employees.",
+        "2": "Man who has committed such an _______ crime must get the most severe punishment.",
+        "3": "He has _______ people visiting him at his house because he fears it will cause discomfort to neighbours.",
+        "4": "Although he never learn to read, his exceptional memory and enquiring mind eventually made him a very _______ man.",
+        "5": "More insurers are limiting the sale of property insurance in coastal areas and other regions _______ natural disasters.",
+        "6": "Roman Regions _______the Mountain_______of Masada for three years before they were able to seize it.",
+        "7": "Unlike his calmer,more easygoing colleagues ,the senator was _________ ,ready to quarrel at the slightest provocation.",
+        "8": "Jill was ________ by her employees because she often _______ them for not working hard enough.",
+        "9": "Reconstructing the skeletons of extinct species like dinosaurs is ________ process that requires much patience and effort by paleontologists."
+    },
+    {
+        "0": {
+            "a": "allusive",
+            "b": "revealing",
+            "c": "pertinent",
+            "d": "referential"
+        },
+        "1": {
+            "a": "independent",
+            "b": "divergent",
+            "c": "modest",
+            "d": "adverse"
+        },
+        "2": {
+            "a": "injurious",
+            "b": "unchritable",
+            "c": "unworhty",
+            "d": "abominable"
+        },
+        "3": {
+            "a": "curtailed",
+            "b": "requested",
+            "c": "stopped",
+            "d": "warned"
+        },
+        "4": {
+            "a": "dedicated",
+            "b": "erudite",
+            "c": "pragmatic",
+            "d": "benevolent"
+        },
+        "5": {
+            "a": "safe from",
+            "b": "according to",
+            "c": "despite",
+            "d": "prone to"
+        },
+        "6": {
+            "a": "dissembled, bastion",
+            "b": "assailed, symbol",
+            "c": "besieged, citadel",
+            "d": "honed, stronghold"
+        },
+        "7": {
+            "a": "whimsical",
+            "b": "irascible",
+            "c": "gregarious",
+            "d": "ineffectual"
+        },
+        "8": {
+            "a": "deified, goaded",
+            "b": "loathed, berated",
+            "c": "disregarded, eulogized",
+            "d": "cherished, decided"
+        },
+        "9": {
+            "a": "a nascent",
+            "b": "an aberrant",
+            "c": "a worthless",
+            "d": "an exacting"
+        }
+    },
+    {
+        "0": "pertinent",
+        "1": "divergent",
+        "2": "abominable",
+        "3": "stopped",
+        "4": "erudite",
+        "5": "prone to",
+        "6": "besieged, citadel",
+        "7": "irascible",
+        "8": "loathed, berated",
+        "9": "an exacting"
+    },
+    {
+        "0": "Answer : \n\npertinent\n\n\n\nExplanation: \n\nRajeev failed in the examination because none of his answers were pertinent to the questions asked.",
+        "1": "Answer : \n\ndivergent\n\n\n\nExplanation: \n\nThere are divergent views on the issue of giving bonus to the employees.",
+        "2": "Answer : \n\nabominable\n\n\n\n\nExplanation: \n\nMan who has committed such an abominable crime must get the most severe punishment.",
+        "3": "Answer : \n\nstopped\n\n\n\nExplanation: \n\nHe has stopped people visiting him at his house because he fears it will cause discomfort to neighbours.",
+        "4": "Answer : \n\nerudite\n\n\n\nExplanation: \n\nAlthough he never learn to read, his exceptional memory and enquiring mind eventually made him a very erudite man.",
+        "5": "Answer : \n\nprone to\n\n\n\nExplanation: \n\nMore insurers are limiting the sale of property insurance in coastal areas and other regions prone to natural disasters.",
+        "6": "Answer : \n\nbesieged, citadel\n\n\n\nExplanation: \n\nRoman Regions besieged the Mountain citadel of Masada for three years before they were able to seize it.",
+        "7": "Answer : \n\nirascible\n\n\n\nExplanation: \n\nUnlike his calmer,more easygoing colleagues ,the senator was irascible, ready to quarrel at the slightest provocation.",
+        "8": "Answer : \n\nloathed, berated\n\n\n\nExplanation: \n\nJill was loathed by her employees because she often berated them for not working hard enough.",
+        "9": "Answer : \n\nan exacting\n\n\n\nExplanation: \n\nReconstructing the skeletons of extinct species like dinosaurs is an exacting process that requires much patience and effort by paleontologists."
+    }
+
+]

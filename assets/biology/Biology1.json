@@ -1,0 +1,101 @@
+[
+    {
+        "0": "The common characteristics between tomato and potato will be maximum at the level of their",
+        "1": "Which of the following is less general in characters as compared to genus",
+        "2": "The book ‘Genera Plantarum’ was written by",
+        "3": "‘Taxon’ is the unit of a group of",
+        "4": "Linnaeus is credited with",
+        "5": "The term phylum was given by",
+        "6": "A group of plants or animals with similar traits of any rank is",
+        "7": "Basic unit or smallest taxon of taxonomy/ classification is",
+        "8": "Linnaeus evolved a system of nomenclature called",
+        "9": "Static concept of species was put forward by"
+    },
+    {
+        "0": {
+            "a": "family",
+            "b": "order",
+            "c": "division",
+            "d": "genus"
+        },
+        "1": {
+            "a": "species",
+            "b": "division",
+            "c": "class",
+            "d": "family"
+        },
+        "2": {
+            "a": "Engler & Prantl",
+            "b": "Bentham & Hooker",
+            "c": "Bessey",
+            "d": "Hutchinson"
+        },
+        "3": {
+            "a": "order",
+            "b": "taxonomy",
+            "c": "species",
+            "d": "genes"
+        },
+        "4": {
+            "a": "binomial nomenclature",
+            "b": "theory of biogenesis",
+            "c": "discovery of microscope",
+            "d": "discovery of blood circulation"
+        },
+        "5": {
+            "a": "cuvier",
+            "b": "haeckel",
+            "c": "theophrastus",
+            "d": "linnaeus"
+        },
+        "6": {
+            "a": "species",
+            "b": "genus",
+            "c": "order",
+            "d": "taxon"
+        },
+        "7": {
+            "a": "species",
+            "b": "kingdom",
+            "c": "family",
+            "d": "variety"
+        },
+        "8": {
+            "a": "mononomial",
+            "b": "vernacular",
+            "c": "binomial",
+            "d": "polynomial"
+        },
+        "9": {
+            "a": "de Candolle",
+            "b": "Linnaeus",
+            "c": "Theophrastus",
+            "d": "Darwin"
+        }
+    },
+    {
+        "0": "family",
+        "1": "species",
+        "2": "Bentham & Hooker",
+        "3": "taxonomy",
+        "4": "binomial nomenclature",
+        "5": "cuvier",
+        "6": "taxon",
+        "7": "species",
+        "8": "binomial",
+        "9": "Theophrastus"
+    },
+    {
+        "0": "Answer : \n\nfamily\n\n\n\nExplanation: \n\nPotato (Solarium tuberosum) and tomato (Lycopersicum esculentum) both belong to family Solanaceae, which is commonly called as the “potato family”. Many plants belonging to this family are sources of vegetables, fruits etc.",
+        "1": "Answer : \n\nspecies\n\n\n\nExplanation: \n\nA taxonomic hierarchy is the sequence of arrangement of taxonomic categories in a descending order during the classification of an organism. There are seven obligate categories – kingdom, division , class, order, family, genus and species. Species is the lowest category while kingdom is the highest category. The number of common characters is maximum in case of organisms placed in the lowest category. Number of common characters decreases with the rise in category. Species are the smallest group of individuals which can be recognized by ordinary methods as groups and which are consistently and persistently different from other groups because their characters are less general.",
+        "2": "Answer : \n\nBentham & Hooker\n\n\n\nExplanation: \n\nBentham and Hooker in their monumental work Genera Plantarum (1862-1883) have provided elaborate keys for the easy identification of 202 natural orders and genera. Engler and Prantl wrote Die naturlichen pflanzen familien. Huchinson wrote a book titled “The Families of Flowering Plants.”",
+        "3": "Answer : \n\ntaxonomy\n\n\n\nExplanation: \n\nTaxon refers to all the categories in the taxonomic hierarchy. It may be a kingdom, class, order, family, genus or species. It is any level of grouping of organisms. Each of these categories has been divided further into intermediate categories like subkingdom, subdivision, superclass, subgenus, subspecies etc. This term was coined by ICBN in 1956.",
+        "4": "Answer : \n\nbinomial nomenclature\n\n\n\nExplanation: \n\n Binomial nomenclature of scientific naming was first given by C. Linnaeus (1735) in his book Systema Naturae and later in “Species Plantarum” (1753). He used two latin words for any organism, the first being generic name and the second is specific name. The generic name begins with capital letter and the species name with small letter.",
+        "5": "Answer : \n\ncuvier\n\n\n\nExplanation: \n\nThe term phylum was given by Cuvier.",
+        "6": "Answer : \n\ntaxon\n\n\n\nExplanation: \n\nA taxon (plural taxa) or taxonomic unit, is a name designating an organism or group of organisms. A taxon is assigned a rank and can be placed at a particular level in a systematic hierarchy reflecting evolutionary relationships.",
+        "7": "Answer : \n\nspecies\n\n\n\nExplanation: \n\nBasic unit or smallest taxon of taxonomy/ classification is species. Species is a group of individuals that remain relatively constant in their characteristics; can be distinguished from other species and do not normally interbreed.",
+        "8": "Answer : \n\nbinomial\n\n\n\nExplanation: \n\nBinomial nomenclature of scientific naming was first given by C. Linnaeus (1735) in his book Systema Naturae and later in “Species Plantarum” (1753). He used two latin words for any organism, the first being generic name and the second is specific name. The generic name begins with capital letter and the species name with small letter.",
+        "9": "Answer : \n\nTheophrastus\n\n\n\nExplanation: \n\nLinnaeus, 1758 developed “Binomial system of nomenclature”, de Candolle gave the term taxonomy. Theophrastus, father of botany, gave names and descriptions of 480 plants in his book. ‘Historia plantarum’ and Darwin proposed the theory of natural selection or origin of species."
+    }
+
+]

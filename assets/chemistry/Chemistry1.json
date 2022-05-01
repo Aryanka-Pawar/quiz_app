@@ -1,0 +1,100 @@
+[
+    {
+        "0": "Which of the following will resist maxi-mum shock & vibration without cracking?",
+        "1": "Volume of blast furnace slag is about __________ times the volume of hot metal (pig iron) of the same weight",
+        "2": "The most commonly used combustion system manufactured in India for the thermal power plant boilers is the __________ combustion system.",
+        "3": "Isotropic materials have the same __________ in all directions.",
+        "4": "Carbon is present in the form of __________ in grey cast iron.",
+        "5": "First empirical temperature scale conceived is the __________ temperature scale.",
+        "6": "If a heat transfer surface is pock-marked with a number of cavities, then as compared to a smooth surface the heat transfer by __________ will not increase.",
+        "7": "Materials having resistivity ranging from 1 to 100 ohm. cm is termed as",
+        "8": "Alloys having more than 80% copper are generally more",
+        "9": "Which of the following is not used as a fuel in rocket propellaht ?"
+    },
+    {
+        "0": {
+            "a": "Grey cast iron",
+            "b": "White cast iron",
+            "c": "Malleable iron",
+            "d": "Graphite"
+        },
+        "1": {
+            "a": "1.5",
+            "b": "3",
+            "c": "5",
+            "d": "7"
+        },
+        "2": {
+            "a": "Pulverised fuel",
+            "b": "Travelling grate stoker firing",
+            "c": "Circulating fluidised bed",
+            "d": "Fluidised bed"
+        },
+        "3": {
+            "a": "Induced stresses",
+            "b": "Density",
+            "c": "Elastic properties",
+            "d": "Thermal properties"
+        },
+        "4": {
+            "a": "Spheroids",
+            "b": "Nodular aggregates of graphite",
+            "c": "Flakes",
+            "d": "Cementite"
+        },
+        "5": {
+            "a": "Absolute",
+            "b": "Reaumer",
+            "c": "Farenhite",
+            "d": "Celcius"
+        },
+        "6": {
+            "a": "Convection",
+            "b": "Nucleate boiling",
+            "c": "Radiation",
+            "d": "Conduction"
+        },
+        "7": {
+            "a": "Conductor",
+            "b": "Insulator",
+            "c": "Semi-conductor",
+            "d": "None of these"
+        },
+        "8": {
+            "a": "Abrasion resistant",
+            "b": "Corrosion resistant",
+            "c": "Prone to season cracking",
+            "d": "Machinable"
+        },
+        "9": {
+            "a": "Liquid hydrogen",
+            "b": "Liquid oxygen",
+            "c": "Liquid hydrazine",
+            "d": "Kerosene oil"
+        }
+    },
+    {
+        "0": "Malleable iron",
+        "1": "3",
+        "2": "Pulverised fuel",
+        "3": "Elastic properties",
+        "4": "Flakes",
+        "5": "Farenhite",
+        "6": "Convection",
+        "7": "Semi-conductor",
+        "8": "Corrosion resistant",
+        "9": "Liquid oxygen"
+    },
+    {
+        "0": "Answer : \n\nMalleable iron",
+        "1": "Answer : \n\n3",
+        "2": "Answer : \n\nPulverised fuel",
+        "3": "Answer : \n\nElastic properties",
+        "4": "Answer : \n\nFlakes",
+        "5": "Answer : \n\nFarenhite",
+        "6": "Answer : \n\nConvection",
+        "7": "Answer : \n\nSemi-conductor",
+        "8": "Answer : \n\nCorrosion resistant",
+        "9": "Answer : \n\nLiquid oxygen"
+    }
+]

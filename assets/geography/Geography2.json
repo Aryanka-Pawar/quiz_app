@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Which planet is known as the 'Watery Planet' ?",
+        "1": "In order of their distances from the Sun, which of the following planets lie between Mars and Uranus?",
+        "2": "A blackhole is a ________ ",
+        "3": "Messenger satellite has been launched by NASA for the study of",
+        "4": "Which of the following is indicated by the colour of a star?",
+        "5": "Milky Way Galaxy was first seen by",
+        "6": "Halley's comet appears once in a period of ________ ",
+        "7": "The radiant energy of the sun is transmitted in the form of ________ ",
+        "8": "\"Sirius\", the brightest star outside of the Solar System, is also called ________.",
+        "9": "Which of the following is called \"Blue Planet\"?"
+    },
+    {
+        "0": {
+            "a": "Mercury",
+            "b": "Earth",
+            "c": "Mars",
+            "d": "Jupiter"
+        },
+        "1": {
+            "a": "Earth and Jupiter",
+            "b": "Jupiter and Saturn",
+            "c": "Saturn and Earth",
+            "d": "Saturn and Neptune"
+        },
+        "2": {
+            "a": "Contracted star with intense gravitational pull",
+            "b": "Star with very low surface temperature",
+            "c": "Star with no atmosphere",
+            "d": "Pulsating star"
+        },
+        "3": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Saturn",
+            "d": "Jupiter"
+        },
+        "4": {
+            "a": "Weight",
+            "b": "Distance",
+            "c": "Temperature",
+            "d": "Size"
+        },
+        "5": {
+            "a": "Galileo",
+            "b": "Martin Schmidt",
+            "c": "Marconi",
+            "d": "Newton"
+        },
+        "6": {
+            "a": "24 years",
+            "b": "32 years",
+            "c": "76 years",
+            "d": "84 years"
+        },
+        "7": {
+            "a": "Short waves",
+            "b": "Long waves",
+            "c": "Particles",
+            "d": "None of these"
+        },
+        "8": {
+            "a": "Cat star",
+            "b": "Dog star",
+            "c": "Fox star",
+            "d": "Lion star"
+        },
+        "9": {
+            "a": "Saturn",
+            "b": "Earth",
+            "c": "Jupiter",
+            "d": "Mars"
+        }
+    },
+    {
+        "0": "Earth",
+        "1": "Jupiter and Saturn",
+        "2": "Contracted star with intense gravitational pull",
+        "3": "Mercury",
+        "4": "Temperature",
+        "5": "Galileo",
+        "6": "76 years",
+        "7": "Short waves",
+        "8": "Dog star",
+        "9": "Earth"
+    },
+    {
+        "0": "Answer : \n\nEarth\n\n\n\nExplanation: \n\nIf you look down at our planet from outer space, most of what you see is water; 71% of the planet's surface is covered by ocean and it is because of this that the Earth is sometimes called \"the water planet\". Only about three-tenths of our globe is covered with land.",
+        "1": "Answer : \n\nJupiter and Saturn\n\n\n\nExplanation: \n\nJupiter and Saturn are located between Mars and Uranus.",
+        "2": "Answer : \n\nContracted star with intense gravitational pull\n\n\n\nExplanation: \n\nBlack hole, cosmic body of extremely intense gravity from which nothing, not even light, can escape. A black hole can be formed by the death of a massive star. They are regions of space where gravity is so powerful that even light can't escape.",
+        "3": "Answer : \n\nMercury\n\n\n\nExplanation: \n\n\"MESSENGER\" was a robotic spacecraft sent by NASA. The name is a reference to the messenger deity of the same name from Roman mythology was a NASA robotic spacecraft that orbited the planet Mercury between 2011 and 2015. The probe was launched aboard a Delta II rocket in August 2004 to study Mercury's chemical composition, geology, and magnetic field.",
+        "4": "Answer : \n\nTemperature\n\n\n\nExplanation: \n\nThe color of a star mostly indicates a star's temperature, and it can also suggest the star's age. Class O stars, which are blue in color, are the hottest, and class M stars, which are red in color, are the coldest.",
+        "5": "Answer : \n\nGalileo\n\n\n\nExplanation: \n\nGalileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe.",
+        "6": "Answer : \n\n76 years\n\n\n\nExplanation: \n\nHalley's comet will next appear in the night sky in the year 2062. It orbits the sun every 75-76 years, so this is the time between appearances. Halley's comet was recorded by Edmund Halley in 1682. It was seen again in 1758, 1835, 1910, and 1986.",
+        "7": "Answer : \n\nShort waves\n\n\n\nExplanation: \n\nRadiant energy is the energy of electromagnetic waves. It is a form of energy that can travel through space. For example, we receive the heat from the sun, which is located very far from the earth via radiation. The sun's heat is not transmitted through any solid medium, but through a vacuum. They are short waves.",
+        "8": "Answer : \n\nDog star\n\n\n\nExplanation: \n\nThe brightest star in the sky is Sirius, also known as the “Dog Star” or, more officially, Alpha Canis Majoris, for its position in the constellation Canis Major. Sirius is a binary star dominated by a luminous main sequence star, Sirius A, with an apparent magnitude of -1.46.",
+        "9": "Answer : \n\nEarth\n\n\n\nExplanation: \n\nPlanet Earth has been called the \"Blue Planet\" due to the abundant water on its surface. Here on Earth, we take liquid water for granted; after all, our bodies are mostly made of water. However, liquid water is a rare commodity in our solar system."
+    }
+
+]

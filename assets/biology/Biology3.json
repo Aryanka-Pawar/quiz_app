@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Which of the following animals is not viviparous?",
+        "1": "Which of the following characteristics is mainl responsible for diversification of insects on land?",
+        "2": "Select the taxon mentioned that represents both marine and fresh water species.",
+        "3": "Which one of the following living organisms completely lacks, a cell wall?",
+        "4": "Planaria possesses high capacity of",
+        "5": "A marine cartilaginous fish that can produce electric current is",
+        "6": "Ureters act as urinogenital ducts in",
+        "7": "Which one of the following groups of animals is bilaterally symmetrical and triploblastic?",
+        "8": "If a live earthworm is pricked with a needle on its outer surface without damaging its gut, the fluid that comes out is ",
+        "9": "Which one of the following pairs of animals comprises ‘jawless fishes’?"
+    },
+    {
+        "0": {
+            "a": "Platypus",
+            "b": "Whale",
+            "c": "Flying fox",
+            "d": "Elephant"
+        },
+        "1": {
+            "a": "Exoskeleton",
+            "b": "Eyes",
+            "c": "Segmentation",
+            "d": "Bilateral symmetry"
+        },
+        "2": {
+            "a": "Echinoderms",
+            "b": "Ctenophora",
+            "c": "Cephalochordata",
+            "d": "Cnidaria"
+        },
+        "3": {
+            "a": "Cyanobacteria",
+            "b": "Sea – fan (Gorgonia)",
+            "c": "Saccharomyces",
+            "d": "Blue – green algae"
+        },
+        "4": {
+            "a": "metamorphosis",
+            "b": "regeneration",
+            "c": "alternation of generation",
+            "d": "bioluminescence"
+        },
+        "5": {
+            "a": "Pristis",
+            "b": "Torpedo",
+            "c": "Trygon",
+            "d": "Scoliodon"
+        },
+        "6": {
+            "a": "human males",
+            "b": "human females",
+            "c": "both male and female frogs",
+            "d": "male frogs"
+        },
+        "7": {
+            "a": "flat worms",
+            "b": "sponges",
+            "c": "ctenophores",
+            "d": "corals"
+        },
+        "8": {
+            "a": "coelomic fluid",
+            "b": "haemolymph",
+            "c": "slimy mucus",
+            "d": "excretory fluid"
+        },
+        "9": {
+            "a": "mackerals and rohu",
+            "b": "lampreys and hag fishes",
+            "c": "guppies and hag fishes",
+            "d": "lampreys and eels"
+        }
+    },
+    {
+        "0": "Platypus",
+        "1": "Exoskeleton",
+        "2": "Cnidaria",
+        "3": "Sea – fan (Gorgonia)",
+        "4": "regeneration",
+        "5": "Torpedo",
+        "6": "male frogs",
+        "7": "flat worms",
+        "8": "coelomic fluid",
+        "9": "lampreys and hag fishes"
+    },
+    {
+        "0": "Answer : \n\nPlatypus\n\n\n\nExplanation: \n\nDuck-billed platypus is an egg laying mammal. It is found in the rivers in eastern Australia and Tasmania. It is a beaver like monotreme about 50¬60 cm long and well adapted to live in water. Usually, two eggs are laid at a time. The female curls around them for incubation and remains inactive for about two weeks. Newly hatched young ones are very immature, naked, blind and each is 2.5 cm long.",
+        "1": "Answer : \n\nExoskeleton\n\n\n\nExplanation: \n\nExoskeleton made of cuticle has enabled insects to live on land and to diversify to almost all the possible habitats. It gives them protection, support and also helps to prevent desiccation.",
+        "2": "Answer : \n\nCnidaria\n\n\n\nExplanation: \n\nCnidarians are the sac-like animals which are aquatic, mostly marine except a few like Hydra, are fresh water. They are the simplest organisms that have attained a tissue level of organization. Members of Ctenophora, Cephalochordata and Echinodermata are exclusively marine.",
+        "3": "Answer : \n\nSea – fan(Gorgonia)\n\n\n\nExplanation: \n\nGorgonia (sea fan) is an animal belonging to phylum Coelenterata. All animals lack cell wall.",
+        "4": "Answer : \n\nregeneration\n\n\n\nExplanation: \n\nPlanaria possesses high degree of regeneration. Both epimorphosis, in which the missing parts are formed and morphallaxis, in which the whole body can be regenerated from a fragment of the body occurs.",
+        "5": "Answer : \n\nTorpedo\n\n\n\nExplanation: \n\nTorpedo is a bottom-living marine fish, discharging electricity which is sufficient to stun preys such as small fishes, etc. A pair of electric organs are situated on the dorsal side of the trunk region. Infact the electric organs are the modified lateral muscle-plates innervated by the cranial nerves.",
+        "6": "Answer : \n\nmale frogs\n\n\n\nExplanation: \n\nIn male frogs, two ureters act as urinogenital duct which open into the cloaca. They run backwards from the kidneys and open into the cloaca. In female ureters carry urine alone, while in male both sperms and urine are carried. Hence, are called urinogenital ducts.",
+        "7": "Answer : \n\nflat worms\n\n\n\nExplanation: \n\nAschelminthes is a superphylum consisting of pseudocoelomates. These are mostly aquatic, free living or parasitic. Their body is slender, bilaterally symmetrical and triploblastic",
+        "8": "Answer : \n\ncoelomic fluid\n\n\n\nExplanation: \n\nCoelom or body cavity of earthworm is filled with coelomic fluid. It lies between body wall and alimentary canal. So if a live earthworm is pricked with a needle on its outer surface without damaging the gut then only coelomic fluid will come out.",
+        "9": "Answer : \n\nlampreys and hag fishes\n\n\n\nExplanation: \n\nAgnatha is subphylum or superclass of marine and fresh water vertebrates that lack jaws. They are fishlike animals with cartilaginous skeletons and well- developed sucking mouthparts with homy teeth. The only living agnathans are lampreys and hagfishes (class cyclostomata), which are parasites or scavengers."
+    }
+
+]

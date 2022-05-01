@@ -1,0 +1,101 @@
+[
+    {
+        "0": "In MS-Dos 6.22, which part identifies the product uniquely",
+        "1": "In MS-Dos what command you will use to display system date?",
+        "2": "While working with Ms-Dos which command transfers a specific file from one disk to another?",
+        "3": "If you don't know the current time, which command will you use to display",
+        "4": "Which command divides the surface of the blank disk into sectors and assign a unique address to each one",
+        "5": "Each time you turn on your computer, it will check on the control file",
+        "6": "If you need to duplicate the entire disk, which command will you use?",
+        "7": "Which of the following extensions suggest that the file is a backup copy.",
+        "8": "Which command lists the contents of current directory of a disk",
+        "9": "Only filenames and extensions are to be displayed in wide format, which command you'll use?"
+    },
+    {
+        "0": {
+            "a": "MS",
+            "b": "DOS",
+            "c": "MS-DOS",
+            "d": "6.22"
+        },
+        "1": {
+            "a": "Date command",
+            "b": "Ver command",
+            "c": "Disk command",
+            "d": "Format command"
+        },
+        "2": {
+            "a": "Copy",
+            "b": "Diskcopy",
+            "c": "Time",
+            "d": "Rename"
+        },
+        "3": {
+            "a": "Copy",
+            "b": "Ver",
+            "c": "Time",
+            "d": "Format"
+        },
+        "4": {
+            "a": "Ver",
+            "b": "Format",
+            "c": "Fat",
+            "d": "Chkdsk"
+        },
+        "5": {
+            "a": "Command.com, io.sys",
+            "b": "Command.com, date.com, dir.com",
+            "c": "Command.com, io.sys, msdos.sys",
+            "d": "Chkdsk.exe"
+        },
+        "6": {
+            "a": "Copy",
+            "b": "Diskcopy",
+            "c": "Chkdsk",
+            "d": "Format"
+        },
+        "7": {
+            "a": "Bak",
+            "b": "Bas",
+            "c": "Com",
+            "d": "Txt"
+        },
+        "8": {
+            "a": "Copy",
+            "b": "Tree",
+            "c": "Cd",
+            "d": "Dir"
+        },
+        "9": {
+            "a": "Dir/w",
+            "b": "Dir a:",
+            "c": "Dir/s",
+            "d": "Dir/b"
+        }
+    },
+    {
+        "0": "6.22",
+        "1": "Date command",
+        "2": "Copy",
+        "3": "Time",
+        "4": "Format",
+        "5": "Command.com, io.sys, msdos.sys",
+        "6": "Diskcopy",
+        "7": "Bak",
+        "8": "Dir",
+        "9": "Dir/w"
+    },
+    {
+        "0": "Answer : \n\n6.22\n\n\n\nExplanation: \n\nMS stands for Microsoft, DOS is the name of operating system Disk Operating System, 6.22 is the version number that identifies the product.",
+        "1": "Answer : \n\nDate command\n\n\n\nExplanation: \n\nVer command displays the version number of Dos. There is no command as Disk. Format command prepares a disk to be used with DOS. Thus Date is the command that lets you to display and/or change the system date.",
+        "2": "Answer : \n\nCopy\n\n\n\nExplanation: \n\nFor a specific file to copy from one disk to another disk, Copy command should be used. Diskcopy copies whole disk into new disk. Time command is to display system time and Rename command just changes the name of a file.",
+        "3": "Answer : \n\nTime\n\n\n\nExplanation: \n\nTime command displays and allows you to change system time. TIME only displays the system time and TIME is used to set new time as system time.",
+        "4": "Answer : \n\nFormat\n\n\n\nExplanation: \n\nVer is used to display the version number of DOS in use. Fat command does not exist and Chkdsk is to check disk errors and fix it. Thus dividing surface into sectors is done by Format command.",
+        "5": "Answer : \n\nCommand.com, io.sys, msdos.sys\n\n\n\nExplanation: \n\ncommand.com, io.sys and msdos.sys are the essential system files of MS-Dos. Loading these files from disk into memory is known as booting. Booting is the process of preparing your computer to work.",
+        "6": "Answer : \n\nDiskcopy\n\n\n\nExplanation: \n\nDiskcopy is used to perform track-by-track copy of a disk into another. Copy command copies selected files; chkdsk and format commands are not for copying purpose.",
+        "7": "Answer : \n\nBak\n\n\n\nExplanation: \n\nBak extension is commonly used to store backup copies of files so that it can be restored later when original file is corrupted or deleted. Bas extension indicates the file is a BASIC program source file, com is command file and txt is plain text file.",
+        "8": "Answer : \n\nDir\n\n\n\nExplanation: \n\nDir command lists the directory of current location. It includes the files, subdirectories and some other system information. Tree command is used to list the directory structure in tree diagram; CD command to change directory and Copy command to copy a file into another.",
+        "9": "Answer : \n\nDir/w\n\n\n\nExplanation: \n\nDir/w only displays the file names and extensions excluding file created date/time, file size. Second option dir a: will list the contents of A drive (floppy drive), third dir/s lists current directory and its sub-directories too, dir/b displays bare format, that means, it just makes a list of files, no more information."
+    }
+
+]

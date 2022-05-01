@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Our country is spiritual country, theirs . . . . . . religious.",
+        "1": "Our sir teaches Mathematics . . . . . . English.",
+        "2": "Please, come . . . . . . the bathroom.",
+        "3": "Please, don’t laugh . . . . . .  those beggars.",
+        "4": "Please, stop . . . . . so many mistakes.",
+        "5": "She . . . . . her husband for 15 minutes.",
+        "6": "The English . . . . . English.",
+        "7": "The rain comes . . . . . . . the clouds.",
+        "8": "The ship . . . . . , Robinson arrived on the Island.",
+        "9": "The stars . . . . . counted."
+    },
+    {
+        "0": {
+            "a": "is",
+            "b": "are",
+            "c": "also",
+            "d": "have"
+        },
+        "1": {
+            "a": "across",
+            "b": "besides",
+            "c": "beside",
+            "d": "both"
+        },
+        "2": {
+            "a": "out of",
+            "b": "over",
+            "c": "on",
+            "d": "in"
+        },
+        "3": {
+            "a": "for",
+            "b": "against",
+            "c": "at",
+            "d": "from"
+        },
+        "4": {
+            "a": "to make",
+            "b": "make",
+            "c": "making",
+            "d": "makes"
+        },
+        "5": {
+            "a": "is beating",
+            "b": "has been beating",
+            "c": "has been beaten",
+            "d": "beats"
+        },
+        "6": {
+            "a": "speak",
+            "b": "spoke",
+            "c": "spoken",
+            "d": "is spoken"
+        },
+        "7": {
+            "a": "in",
+            "b": "near",
+            "c": "from",
+            "d": "under"
+        },
+        "8": {
+            "a": "had been broken",
+            "b": "having broken",
+            "c": "having been broken",
+            "d": "has broken"
+        },
+        "9": {
+            "a": "can",
+            "b": "can be",
+            "c": "cannot be",
+            "d": "must"
+        }
+    },
+    {
+        "0": "is",
+        "1": "besides",
+        "2": "out of",
+        "3": "at",
+        "4": "making",
+        "5": "has been beating",
+        "6": "speak",
+        "7": "from",
+        "8": "having broken",
+        "9": "cannot be"
+    },
+    {
+        "0": "Answer : \n\nis\n\n\n\nExplanation: \n\nWhen you are speaking of or for yourself, use \"am.\" When you are talking about a person or a thing (in the singular), use \"is.\" When you are talking to a person, and when you are talking about other people or things (in the plural), use \"are.\" Here, it is singular as one is compared to the other. Hence, is will be used.",
+        "1": "Answer : \n\nbesides\n\n\n\nExplanation: \n\nBesides means in addition to or apart from. Beside means at the side of or next to. Other two option i.e., across and both doesn't make sense if put in the sentence. The correct word will be Besides.",
+        "2": "Answer : \n\nout of\n\n\n\nExplanation: \n\ncome out of will be the correct word as it means to get out of the bathroom. Other preposition doesn't go with the sentence.",
+        "3": "Answer : \n\nat\n\n\n\nExplanation: \n\nLaugh at means to make fun of. Hence, at is the correct option.",
+        "4": "Answer : \n\nmaking\n\n\n\nExplanation: \n\nGerund will follow after the \"stop\". Making is the right option. Other options don't make sense.",
+        "5": "Answer : \n\nhas been beating\n\n\n\nExplanation: \n\nPast perfect continuous tense is used when a work is being continued for some time from the past. has been beating is the most suitable option",
+        "6": "Answer : \n\nspeak\n\n\n\nExplanation: \n\nThe first English refer to the Englishmen. So, \"The English speak English\" is the correct sentence.",
+        "7": "Answer : \n\nfrom\n\n\n\nExplanation: \n\nThe rain comes from the clouds.",
+        "8": "Answer : \n\nhaving broken\n\n\n\nExplanation: \n\n\"The ship having broken , Robinson arrived on the Island.\" means the ship was broken and therefore Robinson arrived on the island which is a complete sentence. Hence, option C is correct.",
+        "9": "Answer : \n\ncannot be\n\n\n\nExplanation: \n\nIt is impossible to count the stars and so, option C i.e., cannot be is right."
+    }
+
+]

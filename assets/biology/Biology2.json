@@ -1,0 +1,101 @@
+[
+    {
+        "0": "The imperfect fungi which are decomposers of litter and help in mineral cycling belong to",
+        "1": "The structures that help some bacteria to attach to rocks and/or host tissues are",
+        "2": "In which group of organisms the cell walls form two thin overlapping shells which fit together?",
+        "3": "Cell wall is absent in",
+        "4": "True nucleus is absent in",
+        "5": "Which of the following shows coiled RNA strand and capsomeres?",
+        "6": "Viruses have",
+        "7": "Archaebacteria differ from eubacteria in",
+        "8": "Which structures perform the function of mito-chondria in bacteria?",
+        "9": "The motile bacteria are able to move by"
+    },
+    {
+        "0": {
+            "a": "Phycomycetes",
+            "b": "Ascomycetes",
+            "c": "Deuteromycetes",
+            "d": "Basidiomycetes"
+        },
+        "1": {
+            "a": "mesosomes",
+            "b": "holdfast",
+            "c": "rhizoids",
+            "d": "fimbriae"
+        },
+        "2": {
+            "a": "Dinoflagellates",
+            "b": "Slime moulds",
+            "c": "Chrysophytes",
+            "d": "Euglenoids"
+        },
+        "3": {
+            "a": "Mycoplasma",
+            "b": "Nostoc",
+            "c": "Aspergillus",
+            "d": "Funaria"
+        },
+        "4": {
+            "a": "Vaucheria",
+            "b": "Volvox",
+            "c": "Anabaena",
+            "d": "Mucor"
+        },
+        "5": {
+            "a": "Polio virus",
+            "b": "Tobacco mosaic virus",
+            "c": "Measles virus",
+            "d": "Retrovirus"
+        },
+        "6": {
+            "a": "DNA enclosed in a protein coat",
+            "b": "prokaryotic nucleus",
+            "c": "single chromosome",
+            "d": "both DNA and RNA"
+        },
+        "7": {
+            "a": "cell membrane structure",
+            "b": "mode of nutrition",
+            "c": "cell shape",
+            "d": "mode of reproduction"
+        },
+        "8": {
+            "a": "Nucleoid",
+            "b": "Cell",
+            "c": "Cell wall",
+            "d": "Mesosomes"
+        },
+        "9": {
+            "a": "fimbriae",
+            "b": "flagella",
+            "c": "cilia",
+            "d": "pili."
+        }
+    },
+    {
+        "0": "Deuteromycetes",
+        "1": "fimbriae",
+        "2": "Chrysophytes",
+        "3": "Mycoplasma",
+        "4": "Anabaena",
+        "5": "Tobacco mosaic virus",
+        "6": "DNA enclosed in a protein coat",
+        "7": "cell membrane structure",
+        "8": "Mesosomes",
+        "9": "flagella"
+    },
+    {
+        "0": "Answer : \n\nDeuteromycetes\n\n\n\nExplanation: \n\nDeuteromycetes are the imperfect fungi which include all those fungi in which sexual stage is either absent or not known. Some members are saprophytes or parasites while a large number of them are decomposers of litter and help in mineral cycling. E.g., Colletotrichum, Helminthosporium etc.",
+        "1": "Answer : \n\nfimbriae\n\n\n\nExplanation: \n\nFimbriae are small bristle-like solid structures arising from bacterial cell surface. There are 300-400 of fimbriae per cell. Their diameter is 3-10 nm while length is 0.5-1.5 pm. Fimbriae are involved in attaching bacteria to solid surfaces (e.g., rock in water body) or host tissues (e.g., urinary tract in Neisseria gonorrhoeae). Some fimbriae cause agglutination of RBCs. They also help in mutual clinging of bacteria.",
+        "2": "Answer : \n\nChrysophytes\n\n\n\nExplanation: \n\nChrysophytes include diatoms and desmids.The body of diatoms is covered by a transparent siliceous shell (silica deposited in cell wall) known as I frustule. The frustule is made of two valves, epitheca ! and hypotheca, which fit together like a soap box.",
+        "3": "Answer : \n\nMycoplasma\n\n\n\nExplanation: \n\nMycoplasma (Kingdom-Monera) are the simplest and smallest free living prokaryotes which are devoid of a cell wall. Plasma membrane forms the outer boundary of the cell of mycoplasma. Nostoc is a cyanobacterium (Kingdom- Monera), in which cell wall comprises of peptidoglycans. Aspergillus is a fungus (Kingdom-Fungi) in which cell wall is mainly made of chitin. Funaria is a bryophyte (KingdomPlantae) in which cell wall is cellulosic in nature.",
+        "4": "Answer : \n\nAnabaena\n\n\n\nExplanation: \n\nnabaena is a prokaryotic organism. It is a cyanobacteria (blue green algae) which belongs to Kingdom Monera. Like all other prokaryotes, it lacks a true nucleus and other cell organelles.",
+        "5": "Answer : \n\nTobacco mosaic virus\n\n\n\nExplanation: \n\nTobacco mosaic virus is a RNA virus that causes tobacco mosaic disease. It has single stranded coiled RNA molecule as its genetic material a part of which hangs outside the protein coat. Protein coat consists of approximately 2130 capsomeres which are helically arranged to form a hollow cylinder of about 4 nm diameter",
+        "6": "Answer : \n\nDNA enclosed in a protein coat\n\n\n\nExplanation: \n\nViruses are nucleoprotein entities which are able to utilize synthetic machinery of a living cell of the host organism for its multiplication which does not involve growth and division. They have either RNA or DNA as genetic material and a protein coat.",
+        "7": "Answer : \n\ncell membrane structure\n\n\n\nExplanation: \n\nThe archaebacteria are the ‘ancient’ bacteria that include extremophiles like methanogens, halophiles and thermophiles. They represent some of the most ancient of life forms that persist today. They have both eubacterial and eukaryotic characters besides the features unique to them. Their mode of reproduction, nutrition and cell shape and size resembles a typical eubacteria. Their cell walls are made of a variety of polymers, but do not contain peptidoglycan unlike eubacteria. Lipids of their cytoplasmic membranes are ether linked unlike eubacteria which contain glycerol ester lipids in their cell membrane",
+        "8": "Answer : \n\nMesosomes\n\n\n\nExplanation: \n\nMesosome is a characteristic circular to villiform specialisation of bacterial cell membrane that develops as an ingrowth. It consists of vesicles, tubules and lamellae. Mesosomes may be septal or lateral. Septal mesosome connects nucleoid with plasma membrane and assists in replication and septum formation during cells division. Lateral mesosome is not connected with nucleoid and contains respiratory enzymes and performs functions similar to eukarytoic mitochondria and hence is also called chondrioid. They also increase the surface area of plasma membrane and enzymatic contact.",
+        "9": "Answer : \n\nflagella\n\n\n\nExplanation: \n\nFlagellum is the organ of motility in bacteria. Bacterial flagella are unistranded, equivalent to a single microtubular fibre and formed of protein called flagellin. They perform rotatory movements."
+    }
+
+]

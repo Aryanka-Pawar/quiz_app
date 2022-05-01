@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Agents of fog formation do not include ________  ",
+        "1": "Which one among the following forces is most powerful in determining movement of wind including its velocity ?",
+        "2": "Atmospheric humidity is measured by ________ ",
+        "3": "Which is the warmest layer of the atmosphere?",
+        "4": "The intensity of insolation depends on",
+        "5": "The inner-most layer of the Earth is known as",
+        "6": "The hot and dry winds that help in the ripening of grapes in the Alps region is ________ ",
+        "7": "What is approximately the quantum of the pressure exerted by the atmosphere at sea level?",
+        "8": "What is the percentage of Nitrogen in atmosphere of the Earth?",
+        "9": "At low elevation which among the following clouds are to be found ?"
+    },
+    {
+        "0": {
+            "a": "High relative humidity",
+            "b": "Diurnal temperatures of short ranges",
+            "c": "Winter season",
+            "d": "Rapid radiation"
+        },
+        "1": {
+            "a": "Gravitational force",
+            "b": "Centrifugal force",
+            "c": "Frictional force",
+            "d": "Pressure gradient force"
+        },
+        "2": {
+            "a": "Psychrometer",
+            "b": "Anemometer",
+            "c": "Lysimeter",
+            "d": "Hydrometer"
+        },
+        "3": {
+            "a": "Thermosphere",
+            "b": "Troposphere",
+            "c": "Stratosphere",
+            "d": "Mesosphere"
+        },
+        "4": {
+            "a": "Altitude",
+            "b": "Nature of terrain",
+            "c": "Wind",
+            "d": "Latitude"
+        },
+        "5": {
+            "a": "Lithosphere",
+            "b": "Mesosphere",
+            "c": "Aesthenosphere",
+            "d": "Barysphere"
+        },
+        "6": {
+            "a": "Chi nook",
+            "b": "Foehn",
+            "c": "Mistral",
+            "d": "Roaring Forties"
+        },
+        "7": {
+            "a": "One kg per sq km",
+            "b": "One kg per sq mtr",
+            "c": "Five kg per sq cm",
+            "d": "Five kg per sq mtr"
+        },
+        "8": {
+            "a": "0.94",
+            "b": "0.03",
+            "c": "78.03",
+            "d": "85.02"
+        },
+        "9": {
+            "a": "Cirrus",
+            "b": "Nimbus",
+            "c": "Cumulus",
+            "d": "Stratus"
+        }
+    },
+    {
+        "0": "Diurnal temperatures of short ranges",
+        "1": "Pressure gradient force",
+        "2": "Psychrometer",
+        "3": "Thermosphere",
+        "4": "Latitude",
+        "5": "Barysphere",
+        "6": "Foehn",
+        "7": "One kg per sq mtr",
+        "8": "78.03",
+        "9": "Nimbus"
+    },
+    {
+        "0": "Answer : \n\nDiurnal temperatures of short ranges\n\n\n\nExplanation: \n\nAgents of fog formation do not include Diurnal temperatures of short ranges. Diurnal temperature range (DTR) is defined as the difference between daily maximum and minimum temperature, which describes the within-day temperature variability and reflects weather stability.\n",
+        "1": "Answer : \n\nPressure gradient force\n\n\n\nExplanation: \n\nPressure gradient force is most powerful in determining movement of wind including its velocity. Wind is the movement of air across the Earth's surface and is produced by differences in air pressure between one place to another.\n",
+        "2": "Answer : \n\nPsychrometer\n\n\n\nExplanation: \n\nAtmospheric humidity is measured by psychrometer. A psychrometer measures humidity by taking both a wet-bulb and a dry-bulb temperature reading.\n",
+        "3": "Answer : \n\nThermosphere\n\n\n\nExplanation: \n\nThe thermosphere is a layer of Earth's atmosphere. The thermosphere is directly above the mesosphere and below the exosphere. It extends from about 90 km (56 miles) to between 500 and 1,000 km (311 to 621 miles) above our planet. Based on the vertical temperature profile in the atmosphere, the thermosphere is the highest layer, located above the mesosphere.\n",
+        "4": "Answer : \n\nLatitude\n\n\n\nExplanation: \n\nThe amount of insolation received on the earth’s surface is far less than that is radiated from the sun because of the small size of the earth and its distance from the sun. The amount of insolation received on the earth’s surface is not uniform everywhere. It varies according to the place and time. When the tropical regions receive maximum annual insolation, it gradually decreases towards the poles. Insolation is more in summers and less in winters.\n",
+        "5": "Answer : \n\nBarysphere\n\n\n\nExplanation: \n\nThe inner most layer of the earth is called the “Core or Barysphere”. It is otherwise known as NIFE, because of the presence of Nickel and Ferrous (iron).\n",
+        "6": "Answer : \n\nFoehn\n\n\n\nExplanation: \n\nThe hot and dry winds that help in the ripening of grapes in the Alps region is Foehn. Foehn is a type of dry, warm, down-slope wind that occurs in the lee (downwind side) of a mountain range.\n",
+        "7": "Answer : \n\nOne kg per sq mtr\n\n\n\nExplanation: \n\nOne kg per sq mtr is approximately the quantum of the pressure exerted by the atmosphere at sea level.\n",
+        "8": "Answer : \n\n78.03\n\n\n\nExplanation: \n\nNitrogen is the most abundant gas in the atmosphere. Air is composed of 78.03 percent nitrogen.\n",
+        "9": "Answer : \n\nNimbus\n\n\n\nExplanation: \n\nNimbostratus clouds typically form at the ground level up to an altitude of about 6,000 feet in the sky. Clouds occurring at ground level are what scientists call fog.\n"
+    }
+
+]

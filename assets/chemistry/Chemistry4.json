@@ -1,0 +1,101 @@
+[
+    {
+        "0": "The heat required to raise the temperature of body by 1 K is called",
+        "1": "The nuclear particles which are assumed to hold the nucleons together are",
+        "2": "The octane number of zero is assigned to",
+        "3": "The metal that is used as a catalyst in the hydrogenation of oils is",
+        "4": "The most abundant rare gas in the atmosphere is",
+        "5": "The ore which is found in abundance in India is",
+        "6": "The inherited traits of an organism are controlled by",
+        "7": "The heat energy produced when the human body metabolises 1 gram of fat is",
+        "8": "The monomer of polythene is",
+        "9": "The luster of a metal is due to"
+    },
+    {
+        "0": {
+            "a": "specific heat",
+            "b": "thermal capacity",
+            "c": "water equivalent",
+            "d": "None of the above"
+        },
+        "1": {
+            "a": "electrons",
+            "b": "positrons",
+            "c": "neutrons",
+            "d": "mesons"
+        },
+        "2": {
+            "a": "2-methyl octane",
+            "b": "n-heptane",
+            "c": "iso-octane",
+            "d": "3-methyl octane"
+        },
+        "3": {
+            "a": "Ni",
+            "b": "Pb",
+            "c": "Cu",
+            "d": "Pt"
+        },
+        "4": {
+            "a": "He",
+            "b": "Ne",
+            "c": "Ar",
+            "d": "Xe"
+        },
+        "5": {
+            "a": "monazite",
+            "b": "fluorspar",
+            "c": "bauxite",
+            "d": "magnetite"
+        },
+        "6": {
+            "a": "RNA molecules",
+            "b": "nucleotides",
+            "c": "DNA molecules",
+            "d": "enzymes"
+        },
+        "7": {
+            "a": "30 KJ",
+            "b": "1 KJ",
+            "c": "39 KJ",
+            "d": "29 KJ"
+        },
+        "8": {
+            "a": "vinyl chloride",
+            "b": "ethylene",
+            "c": "ethyl alcohol",
+            "d": "None of the above"
+        },
+        "9": {
+            "a": "its high density",
+            "b": "its high polishing",
+            "c": "its chemical inertness",
+            "d": "presence of free electrons"
+        }
+    },
+    {
+        "0": "thermal capacity",
+        "1": "mesons",
+        "2": "n-heptane",
+        "3": "Ni",
+        "4": "Ar",
+        "5": "monazite",
+        "6": "DNA molecules",
+        "7": "39 KJ",
+        "8": "ethylene",
+        "9": "presence of free electrons"
+    },
+    {
+        "0": "Answer : \n\nthermal capacity\n\n\n\nExplanation: \n\nThe heat required to raise the temperature of a body by 1 K is called thermal capacity. In other words, when q is the heat supplied to the body and the temperature raises by 1 K, then the thermal capacity of body is q.",
+        "1": "Answer : \n\nmesons\n\n\n\nExplanation: \n\nNuclear particles responsible for holding all nucleons together are mesons. To account for the binding forces between like particles such as proton and proton or neutron and neutron, Kemmer suggested the existence of a neutral meson (π0).",
+        "2": "Answer : \n\nn-heptane\n\n\n\nExplanation: \n\nn-heptane is defined as the zero point of the octane rating scale. 2,2,4-Trimethylpentane has an octane rating of 100, whereas n-heptane has an octane rating of 0. The octane number is based on an arbitrary scale which is a measure of its ability to resist knocking, as it burns on combustion.",
+        "3": "Answer : \n\nNi\n\n\n\nExplanation: \n\nAlthough nickel is the preferred catalyst for hydrogenation of fats and oils, the use of other metals such as palladium, platinum, ruthenium, and rhodium leads to products with less trans compounds.",
+        "4": "Answer : \n\nAr\n\n\n\nExplanation: \n\nThe most abundant rare gas in the atmosphere is Argon (Ar).",
+        "5": "Answer : \n\nmonazite\n\n\n\nExplanation: \n\nThe ore which is found in abundance in India is monazite.",
+        "6": "Answer : \n\nDNA molecules\n\n\n\nExplanation: \n\nThe inherited traits of an organism are controlled by DNA molecules.\nThe traits an organism displays are ultimately determined by the genes it inherited from its parents, in other words by its genotype. Animals have two copies of all their chromosomes, one from each parent.",
+        "7": "Answer : \n\n39 KJ\n\n\n\nExplanation: \n\nThe heat energy produced when the human body metabolises 1 gram of fat is 39 KJ.",
+        "8": "Answer : \n\nethylene\n\n\n\nExplanation: \n\nPolyethylene is the most common plastic. The monomer is ethylene, a gaseous hydrocarbon with the formula C2H4 which can be viewed as a pair of methylene groups connected to each other.",
+        "9": "Answer : \n\npresence of free electrons\n\n\n\nExplanation: \n\nMetallic lustre is due to the mobile electrons present in metals which when de-excites releases energy in the form of light."
+    }
+
+]

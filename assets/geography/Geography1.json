@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Tadoba national park known for sheltering tiger, panther and bear is located in:",
+        "1": "Apatanis are the tribes found in:",
+        "2": "The largest river of all the west flowing rivers of the peninsular India is:",
+        "3": "Umiam Multipurpose Power Project is located in:",
+        "4": "Indian state known as garden spice is:",
+        "5": "Rajiv Gandhi Environment Award is given for outstanding contribution to: ",
+        "6": "Mahe and Yanam are the parts of the Union Territory of:",
+        "7": "India's first marine national park is located in:",
+        "8": "Singareni Coal fields is located in :",
+        "9": "Which of the rock formations in India is the richest in fossil content?"
+    },
+    {
+        "0": {
+            "a": "Assam",
+            "b": "Chandrapur (Maharashtra)",
+            "c": "Karnataka",
+            "d": "Tamil Nadu"
+        },
+        "1": {
+            "a": "Himanchal Pradesh",
+            "b": "Nagaland",
+            "c": "Sikkim",
+            "d": "Arunachal Pradesh"
+        },
+        "2": {
+            "a": "Tapti",
+            "b": "Kaveri",
+            "c": "Krishna",
+            "d": "Narmada"
+        },
+        "3": {
+            "a": "Himachal Pradesh",
+            "b": "Meghalya",
+            "c": "Sikkim",
+            "d": "Nagaland"
+        },
+        "4": {
+            "a": "Karnataka",
+            "b": "West Bengal",
+            "c": "Kerala",
+            "d": "Sikkim"
+        },
+        "5": {
+            "a": "Health",
+            "b": "Tourism",
+            "c": "Agriculture",
+            "d": "Contribution in the development of Neat technology"
+        },
+        "6": {
+            "a": "Dadar Nagar Haveli",
+            "b": "Chandigarh",
+            "c": "Daman and Diu",
+            "d": "Puducherry"
+        },
+        "7": {
+            "a": "The Gulf of Mannar",
+            "b": "Bay of Bengal",
+            "c": "Arabian Sea",
+            "d": "The Gulf of Khambhat"
+        },
+        "8": {
+            "a": "Narmada Valley",
+            "b": "Karishna Valley",
+            "c": "Godavari Valley",
+            "d": "Kaveri Valley"
+        },
+        "9": {
+            "a": "Rift Valley",
+            "b": "Delta",
+            "c": "Gondwana",
+            "d": "None of Above"
+        }
+    },
+    {
+        "0": "Chandrapur (Maharashtra)",
+        "1": "Arunachal Pradesh",
+        "2": "Narmada",
+        "3": "Meghalya",
+        "4": "Kerala",
+        "5": "Contribution in the development of Neat technology",
+        "6": "Puducherry",
+        "7": "The Gulf of Mannar",
+        "8": "Godavari Valley",
+        "9": "Gondwana"
+    },
+    {
+        "0": "Answer : \n\nChandrapur (Maharashtra)\n\n\n\nExplanation: \n\nIn the Chandrapur district of Maharashtra lies the Tadoba Andhari National park which shelters around 43 tigers till date. The tiger reserve is one of the fifty tiger reserves in India which also happens to be the largest and oldest national park in the state. The name of the national park was kept after the name of the God “Tadoba” who is worshipped by the local tribes, and Andhari is the name of the river which meanders between the forest.",
+        "1": "Answer : \n\nArunachal Pradesh\n\n\n\nExplanation: \n\nThe Apatani, or Tanw, also known by Apa and Apa Tani, are a tribal group of people living in the Ziro valley in the Lower Subansiri district of Arunachal Pradesh in India.",
+        "2": "Answer : \n\nNarmada\n\n\n\nExplanation: \n\nUnlike east flowing major rivers of peninsular India, Narmada and Tapi (Tapti) are west flowing rivers running parallel to Vindhyas and Satpura Ranges and do not form deltas. Narmada is the third longest river of peninsular India with a length of 1312 kilometers.",
+        "3": "Answer : \n\nMeghalya\n\n\n\nExplanation: \n\nUmiam Lake (commonly known as Barapani Lake) is a reservoir in the hills 15 km (9.3 mi) north of Shillong in the state of Meghalaya, India. It was created by damming the Umiam River in the early 1960s. Umiam Multipurpose Power Project is located in Meghalaya.",
+        "4": "Answer : \n\nKerala\n\n\n\nExplanation: \n\nKerala is one of the beautiful state in India, it is known for its rich sources. Some of the spices are: Pepper, Vanilla, Cardamom and Clove.",
+        "5": "Answer : \n\nContribution in the development of Neat technology\n\n\n\nExplanation: \n\nThis award is given to industrial units that make a significant contribution towards the development of new, or the innovative modification of existing, technologies or adoption and use of clean technologies and practices that substantially reduce or prevent environmental pollution. The award consist of a cash prize of Rupees Two lakh, trophy and citation.",
+        "6": "Answer : \n\nPuducherry\n\n\n\nExplanation: \n\nPuducherry lies in the southern part of the Indian Peninsula. The areas of Puducherry district and Karaikal district are bound by the state of Tamil Nadu, while Yanam district and Mahé district are enclosed by the states of Andhra Pradesh and Kerala respectively.",
+        "7": "Answer : \n\nThe Gulf of Mannar\n\n\n\nExplanation: \n\nThe Gulf of Mannar Marine National Park is a protected area of India consisting of 21 small islands (islets) and adjacent coral reefs in the Gulf of Mannar in the Indian Ocean. It lies 1 to 10 km away from the east coast of Tamil Nadu, India for 160 km between Thoothukudi (Tuticorin) and Dhanushkodi.",
+        "8": "Answer : \n\nGodavari Valley\n\n\n\nExplanation: \n\nSingareni opencast coal mines at Manuguru on Godavari Valley Coalfields is located in the districts of Adilabad, Karimnagar, Khammam and Warangal in the Indian state of Telangana. It is the only coalfield in South India. It lies in the basin of the Godavari River.",
+        "9": "Answer : \n\nGondwana\n\n\n\nExplanation: \n\nThe Marine Gondwana Fossil Park is a unique exposure of fossiliferous marine Permian rocks of the Talchir formation dating back to around 280-240 million years ago. Located in the Manendragarh area of Chattisgarh’s Koriya district, the fossil faunal assemblage is indicative of the transgression of sea in this part of India about 20 crores of years ago."
+    }
+
+]

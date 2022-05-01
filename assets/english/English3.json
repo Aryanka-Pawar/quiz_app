@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Foremost :",
+        "1": "Protects :",
+        "2": "Beautiful :",
+        "3": "Terrible :",
+        "4": "Widely :",
+        "5": "Last :",
+        "6": "Mighty :",
+        "7": "Glory :",
+        "8": "Development :",
+        "9": "Modern :"
+    },
+    {
+        "0": {
+            "a": "Hindmost",
+            "b": "Unimportant",
+            "c": "Disposed",
+            "d": "Mature"
+        },
+        "1": {
+            "a": "Defends",
+            "b": "Deprives",
+            "c": "Deserts",
+            "d": "Devises"
+        },
+        "2": {
+            "a": "Wonderful",
+            "b": "Graceful",
+            "c": "Ugly",
+            "d": "Handsome"
+        },
+        "3": {
+            "a": "Soothing",
+            "b": "Frightening",
+            "c": "Scaring",
+            "d": "Delectable"
+        },
+        "4": {
+            "a": "Succinctly",
+            "b": "Broad based",
+            "c": "Limitedly",
+            "d": "Narrowly"
+        },
+        "5": {
+            "a": "End",
+            "b": "Grow",
+            "c": "Diminish",
+            "d": "Finish"
+        },
+        "6": {
+            "a": "Forcible",
+            "b": "Forceful",
+            "c": "Weak",
+            "d": "Tough"
+        },
+        "7": {
+            "a": "Notoriety",
+            "b": "Fame",
+            "c": "Reputation",
+            "d": "Debasement"
+        },
+        "8": {
+            "a": "Retardation",
+            "b": "Retrogression",
+            "c": "Transgression",
+            "d": "Progress"
+        },
+        "9": {
+            "a": "Up-date",
+            "b": "Recent",
+            "c": "Cast",
+            "d": "Ancient"
+        }
+    },
+    {
+        "0": "Unimportant",
+        "1": "Deserts",
+        "2": "Ugly",
+        "3": "Soothing",
+        "4": "Narrowly",
+        "5": "Grow",
+        "6": "Weak",
+        "7": "Debasement",
+        "8": "Retrogression",
+        "9": "Ancient"
+    },
+    {
+        "0": "Answer : \n\nUnimportant\n\n\n\nExplanation: \n\nHindmost : furthest back, latest or ultramodern.\nDisposed : inclined or willing.\nMature : fully developed physically, full-grown.\nPremature : occurring or done before the usual or proper time, too early.\nUnimportant : lacking in importance or significance.\nForemost : most prominent in rank, importance, or position.\n\nSo, antonym is Unimportant.",
+        "1": "Answer : \n\nDeserts\n\n\n\nExplanation: \n\nDefends: protect from harm or danger.\nDeprives: prevent (a person or place) from having or using something\nDevises: plan or invent (a complex procedure, system, or mechanism) by careful thought\nSecures: fix or attach (something) firmly so that it cannot be moved or lost\nDeserts: to abandon that is to stop supporting or looking after\nProtects: keep safe from harm\n\nso the correct answer is Deserts.",
+        "2": "Answer : \n\nUgly\n\n\n\nExplanation: \n\nWonderful, Graceful, Handsome and Marvelous are more or less synonyms of Beautiful.\nUgly posses opposite meaning of Beautiful.",
+        "3": "Answer : \n\nSoothing\n\n\n\nExplanation: \n\nSoothing: having a gently calming effect.\nFrightening, Scaring and Horrible are having similar meaning as Terrible.\nDelectable: delicious or humorous extremely attractive.\n\nSo opposite of Terrible is soothing.",
+        "4": "Answer : \n\nNarrowly\n\n\n\nExplanation: \n\nSuccinctly: briefly and clearly expressed.\nLimitedly: restricted in size, amount, or extent;narrow.\nSpaciously and Broad based are similar to Widely and mean far apart, with a wide space or interval between.\nNarrowly: only just, by only a small margin.\n\nSo, correct opposite is Narrowly.option D is also correct.",
+        "5": "Answer : \n\nGrow\n\n\n\nExplanation: \n\nEnd, Diminish and Finish are similar to last.\nGrow is correct.",
+        "6": "Answer : \n\nWeak\n\n\n\nExplanation: \n\nForcible : done by force.\nForceful : strong and assertive, vigorous and powerful.\nTough : strong enough to withstand adverse conditions or rough handling.\nHaughty : arrogant or conceited\nMighty : possessing great and impressive power or strength.\n\nSo, opposite of Mighty is Weak.",
+        "7": "Answer : \n\nDebasement\n\n\n\nExplanation: \n\nSplendour : magnificent and splendid appearance, grandeur.\nNotoriety : the state of being famous or well known for some bad quality or deed.\nFame : the state of being known by many people.\nReputation : the beliefs or opinions that are generally held about someone or something.\nDebasement : reduce (something) in quality or value, degrade.\nGlory : high renown or honour won by notable achievements, upgrade.\n\nCorrect antonym is Debasement.",
+        "8": "Answer : \n\nRetrogression\n\n\n\nExplanation: \n\nRetardation : delay or hold back in terms of progress or development.\nRetrogression : the process of returning to an earlier state, typically a worse one\nTransgression : an act that goes against a law, rule, or code of conduct; an offence\nProgress : Development\nImpunity : exemption from punishment or freedom from the injurious consequences of an action.\n\nCorrect option is Retrogression.",
+        "9": "Answer : \n\nAncient\n\n\n\nExplanation: \n\nModern : relating to the present or recent times as opposed to the remote past.\nUp-date : to make something more modern or suitable for use now by adding new information or changing its design.\nRecent : having happened, begun, or been done not long ago; belonging to a past period comparatively close to the present.\nCast : throw (something) forcefully in a specified direction.\nAncient : belonging to the very distant past and no longer in existence.\n\nAntonym of Modern is Ancient"
+    }
+
+]

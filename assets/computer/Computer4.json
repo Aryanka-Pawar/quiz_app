@@ -1,0 +1,100 @@
+[
+    {
+        "0": "A report generator is used to",
+        "1": "Which of the following is not a logical data-base structure?",
+        "2": "Which of the following is a database administrator's function?",
+        "3": "Primitive operations common to all record management systems include",
+        "4": "Each of data files has a _____ that describe the way the data is stored in the file.",
+        "5": "After you _____ a record, many data management the environments require you to issue a command to save the changes you made.",
+        "6": "What is the language used by most of the DBMSs for helping their users to access data?",
+        "7": "Data item characteristics that are important in data management include",
+        "8": "In SQL, which command is used to make permanent changes made by statements issue since the beginning of a transaction?",
+        "9": "Periodically adding, changing and deleting file records is called file"
+    },
+    {
+        "0": {
+            "a": "update files",
+            "b": "print files on paper",
+            "c": "data entry",
+            "d": "All of the above"
+        },
+        "1": {
+            "a": "tree",
+            "b": "relational",
+            "c": "network",
+            "d": "chain"
+        },
+        "2": {
+            "a": "backing up the database",
+            "b": "performance monitoring",
+            "c": "user coordination",
+            "d": "All of the above"
+        },
+        "3": {
+            "a": "Print",
+            "b": "Sort",
+            "c": "Look-up",
+            "d": "All of the above"
+        },
+        "4": {
+            "a": "File structure",
+            "b": "Records",
+            "c": "Fields",
+            "d": "Database"
+        },
+        "5": {
+            "a": "Delete",
+            "b": "Update",
+            "c": "Sort key",
+            "d": "Index"
+        },
+        "6": {
+            "a": "High level language",
+            "b": "Query language",
+            "c": "SQL",
+            "d": "4GL"
+        },
+        "7": {
+            "a": "punctuation",
+            "b": "language",
+            "c": "spelling",
+            "d": "width"
+        },
+        "8": {
+            "a": "ZIP",
+            "b": "PACK",
+            "c": "COMMIT",
+            "d": "SAVE"
+        },
+        "9": {
+            "a": "Updating",
+            "b": "upgrading",
+            "c": "restructuring",
+            "d": "renewing"
+        }
+    },
+    {
+        "0": "print files on paper",
+        "1": "chain",
+        "2": "All of the above",
+        "3": "Look-up",
+        "4": "File structure",
+        "5": "Update",
+        "6": "Query language",
+        "7": "width",
+        "8": "COMMIT",
+        "9": "Updating"
+    },
+    {
+        "0": "Answer : \n\nprint files on paper",
+        "1": "Answer : \n\nchain",
+        "2": "Answer : \n\nAll of the above",
+        "3": "Answer : \n\nLook-up",
+        "4": "Answer : \n\nFile structure",
+        "5": "Answer : \n\nUpdate",
+        "6": "Answer : \n\nQuery language",
+        "7": "Answer : \n\nwidth",
+        "8": "Answer : \n\nCOMMIT",
+        "9": "Answer : \n\nUpdating"
+    }
+]

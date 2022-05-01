@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Under what condition is the average velocity equal to the instantaneous velocity?",
+        "1": "How is the speed related to the magnitude of velocity?",
+        "2": "Two balls of different masses (one lighter and one heavier) are thrown vertically upward with same initial speed. Which one will rise to a greater height?",
+        "3": "A player throws a ball upwards with an initial speed of 29.4m/s. What is the direction of acceleration during the upwards motion of the ball?",
+        "4": "Can earth be regarded as a point object when describing its yearly journey around the sun?",
+        "5": "A bullet fired into a fixed target loss half of its velocity after penetrating 3cm. How much further will it penetrate before coming to rest assuming that it faces constant resistance in motion?",
+        "6": "The displacement of the body is given to be proportional to the cube of time elapsed. The magnitude of acceleration of body is ____________",
+        "7": "When rain falls vertically downwards, the front screen of a moving car gets wet while the back screen remains dry.",
+        "8": "Convert an acceleration of 2km/h2 into cm/s2.",
+        "9": "Displacement can be greater than the distance travelled by an object."
+    },
+    {
+        "0": {
+            "a": "Varying velocity",
+            "b": "Varying speed",
+            "c": "Constant velocity",
+            "d": "Constant speed"
+        },
+        "1": {
+            "a": "Greater",
+            "b": "Lesser",
+            "c": "Equal",
+            "d": "Doesn’t vary"
+        },
+        "2": {
+            "a": "The lighter one",
+            "b": "The heavier one",
+            "c": "Neither",
+            "d": "Both the balls"
+        },
+        "3": {
+            "a": "Upwards",
+            "b": "Diagonal",
+            "c": "Projectile motion",
+            "d": "Vertically downwards"
+        },
+        "4": {
+            "a": "Yes",
+            "b": "Don't Know",
+            "c": "No",
+            "d": "Sometimes"
+        },
+        "5": {
+            "a": "1.5cm",
+            "b": "1cm",
+            "c": "3cm",
+            "d": "2cm"
+        },
+        "6": {
+            "a": "Increasing with time",
+            "b": "Decreasing with time",
+            "c": "Constant but not zero",
+            "d": "Zero"
+        },
+        "7": {
+            "a": "Yes",
+            "b": "Sometimes",
+            "c": "No",
+            "d": "Don't Know"
+        },
+        "8": {
+            "a": "2×105 cm/s2",
+            "b": "0.0027 cm/s2",
+            "c": "0.0154 cm/s2",
+            "d": "0.055 cm/s2"
+        },
+        "9": {
+            "a": "Yes",
+            "b": "Don't Know",
+            "c": "Sometimes",
+            "d": "No"
+        }
+    },
+    {
+        "0": "Constant velocity",
+        "1": "Greater",
+        "2": "Both the balls",
+        "3": "Vertically downwards",
+        "4": "Yes",
+        "5": "1cm",
+        "6": "Increasing with time",
+        "7": "Yes",
+        "8": "0.0154 cm/s2",
+        "9": "No"
+    },
+    {
+        "0": "Answer : \n\nConstant velocity\n\n\n\nExplanation: \n\nWhen a body moves with a constant velocity, its average velocity over any time interval is same as instantaneous velocity.",
+        "1": "Answer : \n\nGreater\n\n\n\nExplanation: \n\nDue to change in direction of motion, the length of the path traversed by a body is generally greater than the magnitude of its displacement. So the speed is greater than the magnitude of the velocity.",
+        "2": "Answer : \n\nBoth the balls\n\n\n\nExplanation: \n\nBoth he balls will rise to the same height. It is because, for a body moving with given initial velocity and acceleration, the distance covered by the body does not depend on the mass of the body.",
+        "3": "Answer : \n\nVertically downwards\n\n\n\nExplanation: \n\nThe ball moves under the effect of gravity. The direction of acceleration due to gravity is always vertically downwards.",
+        "4": "Answer : \n\nYes\n\n\n\nExplanation: \n\nEarth can be regarded as a point object when describing its yearly journey around the sun because the size of the earth is much smaller than the distance from the sun.",
+        "5": "Answer : \n\n1cm\n\n\n\nExplanation: \n\nIf u is initial velocity then v=u/2 s=3cm\nAs v2-u2=2as\na = -u2/8\nNow v=0\nInitial velocity=u/2\ns=1cm\nThus the bullet will penetrate a further distance of 1cm before coming to rest.",
+        "6": "Answer : \n\nIncreasing with time\n\n\n\nExplanation: \n\ns=kt3\nVelocity=ds/dt=3kt2\nAcceleration=dv/dt=6kt\nClearly acceleration increases uniformly with time.",
+        "7": "Answer : \n\nYes\n\n\n\nExplanation: \n\nWhen the rain is falling vertically downwards, the front screen of a moving car gets wet while back screen remains dry. This is because the rain strikes the car in the direction of relative velocity of rain with respect to the car.",
+        "8": "Answer : \n\n0.0154 cm/s2\n\n\n\nExplanation: \n\na = 2 km/h2\na = 0.0154 cm/s2.",
+        "9": "Answer : \n\nNo\n\n\n\nExplanation: \n\nThe displacement of an object can be either equal to or less than the distance travelled by the object. This is because displacement is the shortest distance between the initial and final positions of the object while distance travelled is the length of the actual path traversed by the object."
+    }
+
+]

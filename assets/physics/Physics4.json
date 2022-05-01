@@ -1,0 +1,101 @@
+[
+    {
+        "0": "When a body falls freely under gravity, then the work done by the gravity is ___________",
+        "1": "When a gas filled in a cylinder fitted with a movable piston is allowed to expand, the work done by the gas is positive.",
+        "2": "When a body slides against a rough horizontal surface, the work done by friction is ___________",
+        "3": "When a body is lifted, the work done by the gravitational force is positive.",
+        "4": "For a body moving in a circular path, the work done by the centripetal force is ___________",
+        "5": "When a coolie walks on a horizontal platform with a load on his head, the work done by the coolie on the load is zero.",
+        "6": "A gardener pushes a lawn roller through a distance of 20m. If he applies a force of 20kg weight in a direction inclined at 60° to the ground, find the work done by him. (g=9.8m/s2)",
+        "7": "A person is holding a bucket by applying a force of 10N. He moves a horizontal distance of 5m and then climbs up a vertical distance of 10m. Find the total work done by him?",
+        "8": "A moving hammer drives a nail into the wood. It has kinetic energy.",
+        "9": "A bullet fired from a gun can pierce a target due to its ___________"
+    },
+    {
+        "0": {
+            "a": "Positive",
+            "b": "Negative",
+            "c": "Zero",
+            "d": "Infinity"
+        },
+        "1": {
+            "a": "Yes",
+            "b": "No",
+            "c": "Sometimes",
+            "d": "Don't Know"
+        },
+        "2": {
+            "a": "Positive",
+            "b": "Zero",
+            "c": "Negative",
+            "d": "Constant"
+        },
+        "3": {
+            "a": "Sometimes",
+            "b": "Yes",
+            "c": "Don't Know",
+            "d": "No"
+        },
+        "4": {
+            "a": "Negative",
+            "b": "Positive",
+            "c": "Constant",
+            "d": "Zero"
+        },
+        "5": {
+            "a": "Sometimes",
+            "b": "No",
+            "c": "Don't Know",
+            "d": "Yes"
+        },
+        "6": {
+            "a": "400J",
+            "b": "1960J",
+            "c": "250J",
+            "d": "2514J"
+        },
+        "7": {
+            "a": "50J",
+            "b": "150J",
+            "c": "100J",
+            "d": "200J"
+        },
+        "8": {
+            "a": "Sometimes",
+            "b": "No",
+            "c": "Yes",
+            "d": "Don't Know"
+        },
+        "9": {
+            "a": "Mechanical energy",
+            "b": "Heat energy",
+            "c": "Kinetic energy",
+            "d": "Acceleration"
+        }
+    },
+    {
+        "0": "Positive",
+        "1": "Yes",
+        "2": "Negative",
+        "3": "No",
+        "4": "Zero",
+        "5": "Yes",
+        "6": "1960J",
+        "7": "100J",
+        "8": "Yes",
+        "9": "Kinetic energy"
+    },
+    {
+        "0": "Answer : \n\nPositive\n\n\n\nExplanation: \n\nIf a force acting on a body has a component in the direction of displacement, then the work done by the force is positive. Hence when a body falls freely under the influence of gravity the work done by the gravity is positive.",
+        "1": "Answer : \n\nYes\n\n\n\nExplanation: \n\nWhen a gas filled win a cylinder fitted with a movable piston is allowed to expand, the work done by the gas is positive, because of the force due to gas pressure and displacement act in the same direction.",
+        "2": "Answer : \n\nNegative\n\n\n\nExplanation: \n\nIf a force acting on a body has a component in the opposite direction of displacement, the work done is negative, when a body slides against a rough horizontal surface, its displacement is opposite to that of the force of friction. He works done by the friction is negative.",
+        "3": "Answer : \n\nNo\n\n\n\nExplanation: \n\nWhen a body is lifted, the work done by the gravitational force is negative. This is because the gravitational force acts vertically downwards while the displacement is in vertically upward direction.",
+        "4": "Answer : \n\nZero\n\n\n\nExplanation: \n\nFor a body moving in a circular path, the centripetal force and the displacement are perpendicular to each other. So the work done by the centripetal force is zero.",
+        "5": "Answer : \n\nYes\n\n\n\nExplanation: \n\nWhen a coolie walks on a horizontal platform with load on his head, he applies force in the upward direction equal to its weight. The displacement of the load is along the horizontal direction. Thus the work done by the coolie on the load is zero.",
+        "6": "Answer : \n\n1960J\n\n\n\nExplanation: \n\nF = 20kg wt = 20×9.8N\ns = 20m\nθ = 60°\nW = Fscosθ = 20×9.8×20×cos\u206160°\nW = 1960J.",
+        "7": "Answer : \n\n100J\n\n\n\nExplanation: \n\nF = 10N, s = 5m, θ = 90°\nWork done, W1=Fscosθ = 10×5×cos90° = 0\nFor vertical motion, the angle between force and displacement is 0°.\nHere, F = 10N, s = 10m, θ=0°\nWork done, W2=10×10×cos0 = 100J\nTotal work done = W1+W2 = 100J.",
+        "8": "Answer : \n\nYes\n\n\n\nExplanation: \n\nA moving hammer possesses kinetic energy as it is in virtue of motion. A moving object can do work. Therefore a moving hammer drives a nail into the wood.",
+        "9": "Answer : \n\nKinetic energy\n\n\n\nExplanation: \n\nThe kinetic energy of a body by virtue of its motion is called kinetic energy. A moving object can do work. Therefore a bullet fired from a gun can pierce a target due to its kinetic energy."
+    }
+
+]

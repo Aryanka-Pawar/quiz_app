@@ -1,0 +1,100 @@
+[
+    {
+        "0": "Which of the following structures is not found in a prokaryotic cell?",
+        "1": "Which of the following are not membrane – bound?",
+        "2": "DNA is not present in",
+        "3": "Nuclear envelope is a derivative of",
+        "4": "The structures that are formed by stacking of organised flattened membranous sacs in the chloroplasts are",
+        "5": "The chromosomes in which centromere is situated close to one end are",
+        "6": "Which one of the following is not an inclusion body found in prokaryotes?",
+        "7": "The solid linear cytoskeletal elements having a diameter of 6 nm and made up of a single type of monomer are known as",
+        "8": "The osmotic expansion of a cell kept in water is chiefly regulated by",
+        "9": "A major site for synthesis of lipids is"
+    },
+    {
+        "0": {
+            "a": "Mesosome",
+            "b": "Plasma membrane",
+            "c": "Nuclear envelope",
+            "d": "Ribosome"
+        },
+        "1": {
+            "a": "Lysosomes",
+            "b": "Mesosomes",
+            "c": "Vacuoles",
+            "d": "Ribosomes"
+        },
+        "2": {
+            "a": "Nucleus",
+            "b": "Mitochondria",
+            "c": "Chloroplast",
+            "d": "Ribosomes"
+        },
+        "3": {
+            "a": "microtubules",
+            "b": "rough endoplasmic reticulum",
+            "c": "smooth endoplasmic reticulum",
+            "d": "membrane of Golgi complex"
+        },
+        "4": {
+            "a": "stroma lamellae",
+            "b": "stroma",
+            "c": "cristae",
+            "d": "grana"
+        },
+        "5": {
+            "a": "telocentric",
+            "b": "sub-metacentric",
+            "c": "metacentric",
+            "d": "acrocentric"
+        },
+        "6": {
+            "a": "Glycogen granule",
+            "b": "Polysome",
+            "c": "Phosphate granule",
+            "d": "Cyanophycean granule"
+        },
+        "7": {
+            "a": "microtubules",
+            "b": "microfilaments",
+            "c": "intermediate filaments",
+            "d": "lamins"
+        },
+        "8": {
+            "a": "mitochondria",
+            "b": "vacuoles",
+            "c": "plastids",
+            "d": "ribosomes"
+        },
+        "9": {
+            "a": "symplast",
+            "b": "nucleoplasm",
+            "c": "RER",
+            "d": "SER"
+        }
+    },
+    {
+        "0": "Nuclear envelope",
+        "1": "Ribosomes",
+        "2": "Ribosomes",
+        "3": "rough endoplasmic reticulum",
+        "4": "grana",
+        "5": "acrocentric",
+        "6": "Polysome",
+        "7": "microfilaments",
+        "8": "vacuoles",
+        "9": "SER"
+    },
+    {
+        "0": "Answer : \n\nNuclear envelope\n\n\n\nExplanation: \n\nA prokaryotic cell is characterised by absence of an organised nucleus and membrane bound cell organelles. DNA is naked i.e., without a nuclear envelope and lies variously coiled in the cytoplasm. It is commonly called nucleoid or genophore. Mesosomes, plasma membrane and 70S ribosomes are present in a prokaryotic cell",
+        "1": "Answer : \n\nRibosomes\n\n\n\nExplanation: \n\nEndoplasmic reticulum, nuclei, lysosomes, Golgi apparatus and mitochondria are membrane bound cell organelles whereas ribosomes are naked ribonucleoprotein protoplasmic particles. Chromosomes are the hereditary particles present in the nucleus.",
+        "2": "Answer : \n\nRibosomes\n\n\n\nExplanation: \n\nRibosome is a small spherical body within a living cell that is the site of protein synthesis. Ribosomes consist of two subunits, one large and one small, each of which comprises some RNA (called ribosomal RNA) and protein. They are found in both eukaryotic and prokaryotic cells. In prokaryotes, 70S ribosomes and in eukaryotes, 80S ribosomes are found where ‘S’ denotes Svedberg unit. They do not have any DNA.",
+        "3": "Answer : \n\nrough endoplasmic reticulum\n\n\n\nExplanation: \n\nRecent developments have shown that nuclear membrane is derived from rough endoplasmic reticulum. During cell division, nuclear membrane is disintegrated. The nuclear envelope transmembrane proteins are absorbed in the RER. Once the division is completed, RER reassembles the nuclear envelope.",
+        "4": "Answer : \n\ngrana\n\n\n\nExplanation: \n\nA chloroplast is a vesicle, bound by an envelope of two unit membranes and filled with a fluid matrix called stroma. The lamellae, after separation from the inner membrane, usually take the form of closed, flattened, ovoid sacs, the thylakoids, which lie closely packed in piles, the grana.",
+        "5": "Answer : \n\nacrocentric\n\n\n\nExplanation: \n\nCentromere is a part of a chromosome that attaches to the spindle during cell division. The position of the centromere is a distinguishing feature of individual chromosomes. A chromosome with the centromere at its centre is described as metacentric; one with the centromere close to one end is acrocentric; and a chromosome with terminal centromere is telocentric. The centromere usually appears as a constriction when chromosomes contract during cell division.",
+        "6": "Answer : \n\nPolysome\n\n\n\nExplanation: \n\nPolysome is a not an inclusion body. It is an aggregation of ribosomes formed under conditions of high concentration of magnesium. An inclusion body is any of various particulate structures, usually I proteins, formed after viral infections in a prokaryotic or eukaryotic cell.",
+        "7": "Answer : \n\nmicrofilaments\n\n\n\nExplanation: \n\nMicrotubules are hollow microscopic tubular structures with an external diameter of 24 nm and of variable length. They are composed of tubulin. Intermediate filaments are the numerous microscopic protein fibres of about 10 nm thickness that form part of the cytoskeleton. They are made up of a variety of proteins e.g. keratin in nails. Microfilaments are 7-9 nm in diameter and composed of actin. Each microfilament consists of two helically twisted strands, each comprising a chain of globular sub units of actin proteins.",
+        "8": "Answer : \n\nvacuoles\n\n\n\nExplanation: \n\nVacuoles are non cytoplasmic areas present inside cytoplasm and separated from latter by tonoplast. They are believed to be formed by expansion and pinching off from ER. There occurs a large central vacuole and many small vacuoles in plant cells. They play a major role in osmotic expansion of cell.",
+        "9": "Answer : \n\nSER\n\n\n\nExplanation: \n\nSmooth endoplasmic reticulum (SER) is a system of smooth membranes (i.e., membranes not having ribosomes) within the cytoplasm of plant and animal cells. It forms a link between the cell and nuclear membranes. It is the site ofimportant metabolic reactions, including phospholipid and fatty-acid synthesis.In animal cells lipid-like steroidal hormones are also synthesized"
+    }
+]

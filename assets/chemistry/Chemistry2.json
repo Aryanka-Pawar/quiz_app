@@ -1,0 +1,100 @@
+[
+    {
+        "0": "Sublimation temperature of dry ice (solid CO₂) is __________ °C.",
+        "1": "Henry's law is closely obeyed by a gas, when its __________ is extremely high.",
+        "2": "If an ideal solution is formed by mixing two pure liquids in any proportion, then the __________ of mixing is zero.",
+        "3": "The ammonia synthesis reaction represented by N₂ + 3H₂ ⇋ 2NH₃ ; ΔH = - 22.4 kcal, is",
+        "4": "No work is done by the system, when a reaction occurs at constant",
+        "5": "Which is an example of closed system?",
+        "6": "For organic compounds, group contribution method can be used for the estimation of",
+        "7": "Internal energy of an element at 1 atm and 25° C is __________ kcal/kg.mole.",
+        "8": "__________ functions are exemplified by heat and work.",
+        "9": "Heat is added at constant pressure in an ideal __________ cycle."
+    },
+    {
+        "0": {
+            "a": "-273",
+            "b": "0",
+            "c": "-78",
+            "d": "5"
+        },
+        "1": {
+            "a": "Pressure",
+            "b": "Solubility",
+            "c": "Temperature",
+            "d": "None of these"
+        },
+        "2": {
+            "a": "Enthalpy",
+            "b": "Volume",
+            "c": "Both A & B",
+            "d": "Neither A nor B"
+        },
+        "3": {
+            "a": "Endothermic",
+            "b": "Exothermic",
+            "c": "Isothermal",
+            "d": "Adiabatic"
+        },
+        "4": {
+            "a": "Volume",
+            "b": "Temperature",
+            "c": "Pressure",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "Air compressor",
+            "b": "Lquid cooling system of an automobile",
+            "c": "Boiler",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "Critical properties",
+            "b": "Specific gravity",
+            "c": "Specific volume",
+            "d": "Thermal conductivity"
+        },
+        "7": {
+            "a": "0",
+            "b": "273",
+            "c": "25",
+            "d": "None of these"
+        },
+        "8": {
+            "a": "Path",
+            "b": "Point",
+            "c": "State",
+            "d": "None of these"
+        },
+        "9": {
+            "a": "Stirling",
+            "b": "Brayton",
+            "c": "Rankine",
+            "d": "Both B and C"
+        }
+    },
+    {
+        "0": "-78",
+        "1": "None of these",
+        "2": "Both A & B",
+        "3": "Exothermic",
+        "4": "Volume",
+        "5": "Lquid cooling system of an automobile",
+        "6": "Critical properties",
+        "7": "0",
+        "8": "Path",
+        "9": "Both B and C"
+    },
+    {
+        "0": "Answer : \n\n-78\n\n\n\nExplanation: \n\nSublimation means the conversion of solid phase directly in to vapor phase (without involvement of phase liquid). Actually for every substance this direct phase conversion occurs when the substance is below its triple point pressure and corresponding temperature.\nActually one of the point where the dry ice sublimates is 1 atm pressure and corresponding temperature is −78∘C.",
+        "1": "Answer : \n\nNone of these\n\n\n\nExplanation: \n\nHenrys law is closely obeyed by a gas when its solubility is very low in an solution.\n",
+        "2": "Answer : \n\nBoth A & B\n\n\n\nExplanation: \n\nFor an ideal solution both the volume of mixing and enthalpy of mixing is zero since an ideal solution behaves like a pure solvent.\n",
+        "3": "Answer : \n\nExothermic\n\n\n\nExplanation: \n\nGiven ΔH=−22.4kcal\nso it represents an exothermic reaction as heat is released out during the process.",
+        "4": "Answer : \n\nVolume\n\n\n\nExplanation: \n\nHere work means expansion work since the expansion work (W) and,\nwe know expansion work W=∫PextdV\n and since for isochoric process there will be no volume change i..e.., volume remains constant and hence dV=0.\n\nSo, work done = 0",
+        "5": "Answer : \n\nLquid cooling system of an automobile\n\n\n\nExplanation: \n\nA closed system is that in which there will be no mass transfer or material transfer but there will be energy transfer here the identity of system also remains same. Since in the given options these conditions are satisfied by liquid cooling system where our attention is on energy transfer rather than mass transfer.\n",
+        "6": "Answer : \n\nCritical properties\n\n\n\nExplanation: \n\nGroup contribution method is used to measure the critical properties.\n",
+        "7": "Answer : \n\n0\n\n\n\nExplanation: \n\nThe room temperature is considered as standard stat at which internal energy is considered or taken as zero basically it is considered as Datum for calculations of internal energy.\n",
+        "8": "Answer : \n\nPath\n\n\n\nExplanation: \n\nWe know heat and work are path functions as they are dependent on path specified. But according to first law the difference between heat and work is an point function δQ−δW=dU",
+        "9": "Answer : \n\nBoth B and C\n\n\n\nExplanation: \n\nIn both Rankine and Brayton cycle the heat is added at constant pressure.\n"
+    }
+]

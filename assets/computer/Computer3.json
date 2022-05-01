@@ -1,0 +1,100 @@
+[
+    {
+        "0": "What is the term used for describing the judgmental or commonsense part of problem solving?",
+        "1": "What stage of the manufacturing process has been described as \"the mapping of function onto form\"?",
+        "2": "Which kind of planning consists of successive representations of different levels of a plan?",
+        "3": "What was originally called the \"imitation game\" by its creator?",
+        "4": "Decision support programs are designed to help managers make:",
+        "5": "PROLOG is an AI programming language which solves problems with a form of symbolic logic known as predicate calculus. It was developed in 1972 at the University of Marseilles by a team of specialists. Can you name the person who headed this team?",
+        "6": "Programming a robot by physically moving it through the trajectory you want it to follow is called:",
+        "7": "To invoke the LISP system, you must enter",
+        "8": "DEC advertises that it helped to create \"the world's first expert system routinely used in an industrial environment,\" called XCON or:",
+        "9": "Prior to the invention of time sharing, the prevalent method of computer access was:"
+    },
+    {
+        "0": {
+            "a": "Heuristic",
+            "b": "Critical",
+            "c": "Value based",
+            "d": "Analytical"
+        },
+        "1": {
+            "a": "Design",
+            "b": "Distribution",
+            "c": "project management",
+            "d": "field service"
+        },
+        "2": {
+            "a": "hierarchical planning",
+            "b": "non-hierarchical planning",
+            "c": "All of the above",
+            "d": "project planning"
+        },
+        "3": {
+            "a": "The Turing Test",
+            "b": "LISP",
+            "c": "The Logic Theorist",
+            "d": "Cybernetics"
+        },
+        "4": {
+            "a": "budget projections",
+            "b": "visual presentations",
+            "c": "business decisions",
+            "d": "vacation schedules"
+        },
+        "5": {
+            "a": "Alain Colmerauer",
+            "b": "Nicklaus Wirth",
+            "c": "Seymour Papert",
+            "d": "John McCarthy"
+        },
+        "6": {
+            "a": "contact sensing control",
+            "b": "continuous-path control",
+            "c": "robot vision control",
+            "d": "pick-and-place control"
+        },
+        "7": {
+            "a": "AI",
+            "b": "LISP",
+            "c": "CL (Common Lisp)",
+            "d": "both b and c"
+        },
+        "8": {
+            "a": "PDP-11",
+            "b": "Rl",
+            "c": "VAX",
+            "d": "MAGNOM"
+        },
+        "9": {
+            "a": "batch processing",
+            "b": "telecommunication",
+            "c": "remote access",
+            "d": "All of the above"
+        }
+    },
+    {
+        "0": "Heuristic",
+        "1": "Design",
+        "2": "hierarchical planning",
+        "3": "The Turing Test",
+        "4": "business decisions",
+        "5": "Alain Colmerauer",
+        "6": "continuous-path control",
+        "7": "both b and c",
+        "8": "Rl",
+        "9": "batch processing"
+    },
+    {
+        "0": "Answer : \n\nHeuristic",
+        "1": "Answer : \n\nDesign",
+        "2": "Answer : \n\nhierarchical planning",
+        "3": "Answer : \n\nThe Turing Test",
+        "4": "Answer : \n\nbusiness decisions",
+        "5": "Answer : \n\nAlain Colmerauer",
+        "6": "Answer : \n\ncontinuous-path control",
+        "7": "Answer : \n\nboth b and c",
+        "8": "Answer : \n\nRl",
+        "9": "Answer : \n\nbatch processing"
+    }
+]

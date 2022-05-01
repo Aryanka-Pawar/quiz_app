@@ -1,0 +1,101 @@
+[
+    {
+        "0": "From what location are the 1st computer instructions available on boot up?",
+        "1": "What could cause a fixed disk error.",
+        "2": "Missing slot covers on a computer can cause?",
+        "3": "When installing PCI NICS you can check the IRQ availability by looking at",
+        "4": "With respect to a network interface card, the term 10/100 refers to",
+        "5": "Which Motherboard form factor uses one 20 pin connector",
+        "6": "A hard disk is divided into tracks which are further subdivided into:",
+        "7": "A wrist grounding strap contains which of the following:",
+        "8": "Which standard govern parallel communications?",
+        "9": "What product is used to clean smudged keys on a keyboard?"
+    },
+    {
+        "0": {
+            "a": "ROM BIOS",
+            "b": "CPU",
+            "c": "boot.ini",
+            "d": "CONFIG.SYS"
+        },
+        "1": {
+            "a": "No-CD installed",
+            "b": "bad ram",
+            "c": "slow processor",
+            "d": "Incorrect CMOS settings"
+        },
+        "2": {
+            "a": "over heat",
+            "b": "power surges",
+            "c": "EMI",
+            "d": "incomplete path for ESD"
+        },
+        "3": {
+            "a": "Dip switches",
+            "b": "CONFIG.SYS",
+            "c": "Jumper settings",
+            "d": "Motherboard BIOS"
+        },
+        "4": {
+            "a": "protocol speed",
+            "b": "a fiber speed",
+            "c": "megabits per seconds",
+            "d": "minimum and maximum server speed"
+        },
+        "5": {
+            "a": "ATX",
+            "b": "AT",
+            "c": "BABY AT",
+            "d": "None of the above"
+        },
+        "6": {
+            "a": "clusters",
+            "b": "sectors",
+            "c": "vectors",
+            "d": "heads"
+        },
+        "7": {
+            "a": "Surge protector",
+            "b": "Capacitor",
+            "c": "Voltmeter",
+            "d": "Resistor"
+        },
+        "8": {
+            "a": "RS232",
+            "b": "RS-232a",
+            "c": "CAT 5",
+            "d": "IEEE 1284"
+        },
+        "9": {
+            "a": "TMC solvent",
+            "b": "Silicone spray",
+            "c": "Denatured alcohol",
+            "d": "All-purpose cleaner"
+        }
+    },
+    {
+        "0": "ROM BIOS",
+        "1": "Incorrect CMOS settings",
+        "2": "over heat",
+        "3": "Motherboard BIOS",
+        "4": "megabits per seconds",
+        "5": "ATX",
+        "6": "sectors",
+        "7": "Resistor",
+        "8": "IEEE 1284",
+        "9": "All-purpose cleaner"
+    },
+    {
+        "0": "Answer : \n\nROM BIOS",
+        "1": "Answer : \n\nIncorrect CMOS settings",
+        "2": "Answer : \n\nover heat",
+        "3": "Answer : \n\nMotherboard BIOS",
+        "4": "Answer : \n\nmegabits per seconds",
+        "5": "Answer : \n\nATX",
+        "6": "Answer : \n\nsectors",
+        "7": "Answer : \n\nResistor",
+        "8": "Answer : \n\nIEEE 1284",
+        "9": "Answer : \n\nAll-purpose cleaner"
+    }
+
+]

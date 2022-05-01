@@ -1,0 +1,100 @@
+[
+    {
+        "0": "Two resistance are expressed as R1=(4 ± 0.5) Ω and R2 = (12 ± 0.5) Ω. What is the net resistance when they are connected (i) in series and (ii) in parallel with percentage error?",
+        "1": "One centimeter on the main scale of a vernier callipers is divided into 10 equal parts. If 10 divisions of vernier scale coincide with 8 small divisions of the main scale then the least count of vernier callipers is ",
+        "2": "A plate has length 5 ± 0.1 cm and breadth 2 ± 0.01 cm. The area of plate is",
+        "3": "If the order of two vectors A and B is reversed, then in the cross product of two vectors, the resultant vector",
+        "4": "Force is given by the expression, F = A cos(Bx) + C cos(Dt), where x is displacement and t is time. The dimension of (D/B) is same as that of",
+        "5": "A screw gauge gives the following reading when used to measure the diameter of a wire.\nMain scale reading : 0 mm\nCircular scale reading : 52 divisions\nGiven that 1 mm on main scale corresponds to 100 divisions of the circular scale.\nThe diameter of the wire from the above date is",
+        "6": "If A X B = C, then which of the following statements is wrong",
+        "7": "A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it?",
+        "8": "In new system of units called star units, 1 kg* = 10 kg, 1 m* = 1 km and 1s* = 1 min, what will be the value of 1 J in the new system?",
+        "9": "If four non-zero vectors satisfy a x b = c x d and a x c = b x d with |a| ≠ |c|, and |b| ≠ |c| then"
+    },
+    {
+        "0": {
+            "a": "16 Ω ± 23%, 3 Ω ± 6.25%",
+            "b": "16 Ω ± 2.3%, 3 Ω ± 6.25%",
+            "c": "3 Ω ± 23%, 16 Ω ± 6.25%",
+            "d": "16 Ω ± 6.25%, 3 Ω ± 23%"
+        },
+        "1": {
+            "a": "0.01 cm",
+            "b": "0.02 cm",
+            "c": "0.05 cm",
+            "d": "0.005 cm"
+        },
+        "2": {
+            "a": "10 ± 0.1 cm2",
+            "b": "10 ± 2.5 cm2",
+            "c": "10 ± 0.001 cm2",
+            "d": "10 ± 0.25 cm2"
+        },
+        "3": {
+            "a": "changes only in direction",
+            "b": "changes in magnitude",
+            "c": "magnitude and direction",
+            "d": "does not change in both magnitude and direction"
+        },
+        "4": {
+            "a": "velocity",
+            "b": "velocity gradient",
+            "c": "angular velocity",
+            "d": "angular momentum"
+        },
+        "5": {
+            "a": "0.52 cm",
+            "b": "0.052 cm",
+            "c": "0.026 cm",
+            "d": "0.005 cm"
+        },
+        "6": {
+            "a": "C ⟂ A",
+            "b": "C ⟂ B",
+            "c": "C ⟂ (A + B)",
+            "d": "C ⟂ (A X B)"
+        },
+        "7": {
+            "a": "A meter scale",
+            "b": "A vernier calliper with 10 division in vernier scale",
+            "c": "A screw gauge with 100 divisions in the circular scale",
+            "d": "A screw gauge with 50 divisions in the circular scale"
+        },
+        "8": {
+            "a": "2.4 X 10 ^(-5) J*",
+            "b": "3.6 X 10 ^(-4) J*",
+            "c": "4.2 X 10 ^(-3) J*",
+            "d": "4.2 X 10 ^(-2) J*"
+        },
+        "9": {
+            "a": "(a-d) and (b-c) are perpendicular",
+            "b": "(a-d) and (b-c) are parallel",
+            "c": "(a-d) must be equal to (b-c)",
+            "d": "(a-d) must be equal to -(b-c)"
+        }
+    },
+    {
+        "0": "16 Ω ± 6.25%, 3 Ω ± 23%",
+        "1": "0.02 cm",
+        "2": "10 ± 0.25 cm2",
+        "3": "changes only in direction",
+        "4": "velocity",
+        "5": "0.052 cm",
+        "6": "C ⟂ (A X B)",
+        "7": "A vernier calliper (10 division in vernier scale, 9 division in main scale, main scale has 10 divisions in 1 cm)",
+        "8": "3.6 X 10 ^(-4) J*",
+        "9": "(a-d) and (b-c) are parallel"
+    },
+    {
+        "0": "Rs = R1 + R2 = 16 Ω\n\nRp = (R1R2)/(R1+R2) = R1R2/Rs = 3 Ω\n\nΔRs = ΔR1 + ΔR2 = 1 Ω\n\n➨ (ΔRs/Rs) x 100 = 1/16 x 100%\n\n➨ (ΔRs/Rs) x 100 = 625%\n\n➨ Rs = 16 ± 625%\n\nSimilarly, Rp = R1R2/Rs\n\n➨ ΔRp/Rp = ΔR1/R1 + ΔR2/R2 + ΔRs/Rs\n\n➨ ΔRp/Rp = 0.5/4 + 0.5/12 + 1/16\n\n➨ ΔRp/Rp = 0.23\n\n➨ ΔRp/Rp x 100 = 23 %\n\n➨ Rp = 3 Ω ± 23%",
+        "1": "1 MSD = 1/10 cm = 0.1 cm\n\n➨ 10 VSD = 8 MSD\n\n➨ 1 VSD = 8/10 MSD\n\n➨ 1 VSD = 8/10(0.1) cm\n\n➨ 1 VSD = 0.08 cm\n\n➨ Least count = 1 MSD - 1 VSD\n\n➨ Least count = 0.1 - 0.08 = 0.02 cm\n\n Here MSD denoted Main Scale Divisions and VSD denoted Vernier Scale Division.",
+        "2": "Area, A = l x b = 5 x 2 = 10 cm2\n\n ΔA/A = Δl/l + Δb/b\n\n∴ ΔA = (Δl/l + Δb/b).A\n\n ΔA = (0.1/5 + 0.01/2)x10 = 0.25\n\n∴ Area of plate, A = 10 ± 0.25cm2",
+        "3": "In the cross product of two vectors A and B, if the order the vectors is reversed, then the magnitude of resultant vector remains the same but its direction changes. A X B is out of pane of paper and perpendicular to paper. B X A is into plane of paper and perpendicular to paper A X B = AB sin θ = B X A",
+        "4": "The principle of homogeneity of dimension states that a physical quantity equation will be dimensionally correct, if the dimensions of all the terms occurring on both sides of the equation are same. From dimension logic, the quantities of same dimensions can be added or subtracted, so\n\n➨ [Bx] = [Dt]\n\n➨ [x/t] = [D/B]\n\n➨ [D/B] = [L/T]\n\n➨ Dimension of D/B = [L1 T-1]\n\n➨ [L1 T-1] is the dimension of velocity also",
+        "5": "Least count of screw gauge = 1/100 mm = 0.01 mm\n\n➨ Diameter = Divisions on circular scale x least count + main scale reading\n\n➨ Diameter = 52 x 1/100 + 0 = 0.52 mm\n\n➨ Diameter = 0.052 cm",
+        "6": "From the property of vector product, we notice that C must be perpendicular to the plane formed by vector A and B. Therefore, C is perpendicular to both A and B and (A + B) vector also, as it must lie in the plane formed by vector A and B. But the cross product (A X B) gives a vector C which can not be perpendicular to itself. Thus the last statement is wrong",
+        "7": "As, 3.50 cm = 35 mm\n\n➨ A metre scale or foot scale gives measurement 35 mm then 36 mm. It does not give more precision.\n\n➨ For vernier scale with 1 MSD = 1 mm and 9 MSD = 10 VSD\n\n➨ Lease count = 1 MSD - 1 VSD = 1 mm - 9/10 mm = 0.1 mm\n\n➨ So, 35.0 mm can be measured by vernier calliper.\n\n➨ (c) Screw gauge will give 35.00 mm to 35.09 mm.\n\n➨ (d) Screw gauge will give 35.00 or 35.02 or 34.98 mm.",
+        "8": "Given that,\n\n➨ For stars unit, 1 kg* = 10 kg\n\n➨ 1 m* = 1 km  = 1000 m \n\n➨ and 1s* = 1 min = 60 s\n\n➨ The value of 1 J in star units,\n\n➨ 1 J = 1 [ML2T-2] = 1 [1 kg m2 s-2]\n\n➨ 1 J = 1 X [1/10 kg* X (m*/1000)^2 X (s*/60)^-2]\n\n➨ 1 J = 3.6 X 10 ^-4 J*",
+        "9": "a x b = c x d ------- (i)\n\na x c = b x d -------(ii)\n\nSubtracting (ii) from (i), we get\n\n➨ (a x b) - (a x c) = (c x d) - (b x d)\n\n➨ a x (b - c) = (c - b) x d\n\n➨ a x (b - c) = - (b - c) x d\n\n➨ a x (b - c) + (b - c) x d = 0\n\n➨ a x (b - c) - d x (b - c) = 0\n\n\n➨ (a - d) x (b - c) = 0\n\n➨ So, (a - d) and (b - c) are parallel."
+    }
+]

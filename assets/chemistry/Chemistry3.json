@@ -1,0 +1,101 @@
+[
+    {
+        "0": "Which of the following phenomenon is considered responsible for Global Warming?",
+        "1": "The nucleus of an atom consists of",
+        "2": "The number of moles of solute present in 1 kg of a solvent is called its",
+        "3": "The most electronegative element among the following is",
+        "4": "The metal used to recover copper from a solution of copper sulphate is",
+        "5": "The metallurgical process in which a metal is obtained in a fused state is called",
+        "6": "The molecules of which gas have highest speed?",
+        "7": "The law which states that the amount of gas dissolved in a liquid is proportional to its partial pressure is",
+        "8": "The most commonly used bleaching agent is",
+        "9": "The nucleus of a hydrogen atom consists of"
+    },
+    {
+        "0": {
+            "a": "Greenhouse effect",
+            "b": "Fire in coal mines",
+            "c": "Dry farming",
+            "d": "Monsoon"
+        },
+        "1": {
+            "a": "electrons and neutrons",
+            "b": "electrons and protons",
+            "c": "protons and neutrons",
+            "d": "All of the above"
+        },
+        "2": {
+            "a": "molality",
+            "b": "molarity",
+            "c": "normality",
+            "d": "formality"
+        },
+        "3": {
+            "a": "sodium",
+            "b": "bromine",
+            "c": "fluorine",
+            "d": "oxygen"
+        },
+        "4": {
+            "a": "Na",
+            "b": "Ag",
+            "c": "Hg",
+            "d": "Fe"
+        },
+        "5": {
+            "a": "smelting",
+            "b": "roasting",
+            "c": "calcinations",
+            "d": "froth floatation"
+        },
+        "6": {
+            "a": "H2 at -73°C",
+            "b": "CH4 at 300 K",
+            "c": "N2 at 1,027°C",
+            "d": "O2 at 0°C"
+        },
+        "7": {
+            "a": "Dalton's law",
+            "b": "Gay Lussac's law",
+            "c": "Henry's law",
+            "d": "Raoult's law"
+        },
+        "8": {
+            "a": "alcohol",
+            "b": "carbon dioxide",
+            "c": "chlorine",
+            "d": "sodium chlorine"
+        },
+        "9": {
+            "a": "1 proton only",
+            "b": "1 proton + 2 neutron",
+            "c": "1 neutron only",
+            "d": "1 electron only"
+        }
+    },
+    {
+        "0": "Greenhouse effect",
+        "1": "protons and neutrons",
+        "2": "molality",
+        "3": "fluorine",
+        "4": "Fe",
+        "5": "smelting",
+        "6": "H2 at -73°C",
+        "7": "Henry's law",
+        "8": "chlorine",
+        "9": "1 proton only"
+    },
+    {
+        "0": "Answer : \n\nGreenhouse effect\n\n\n\nExplanation: \n\nModern global warming is the result of an increase in magnitude of the so-called greenhouse effect, a warming of Earth's surface and lower atmosphere caused by the presence of water vapour, carbon dioxide, methane, nitrous oxides, and other greenhouse gases.",
+        "1": "Answer : \n\nprotons and neutrons\n\n\n\nExplanation: \n\nThe nucleus of an atom consists of protons and neutrons.",
+        "2": "Answer : \n\nmolality\n\n\n\nExplanation: \n\nMolality is the property of a a solution that is defined as the number of moles of solute per kilogram of solvent.",
+        "3": "Answer : \n\nfluorine\n\n\n\nExplanation: \n\nFluorine is the most electronegative element and also the most reactive non-metal.",
+        "4": "Answer : \n\nFe\n\n\n\nExplanation: \n\nThe metal used to recover copper from a solution of copper sulphate is Fe.",
+        "5": "Answer : \n\nsmelting\n\n\n\nExplanation: \n\nThe process of extraction of metal in its molten state by any reducing agent in the presence of flux is called smelting.",
+        "6": "Answer : \n\nH2 at -73°C\n\n\n\nExplanation: \n\nAmong the given gases, hydrogen at −50oC has maximum value of T/M and highest speed.",
+        "7": "Answer : \n\nHenry's law\n\n\n\nExplanation: \n\nIn physical chemistry, Henry's law is a gas law that states that the amount of dissolved gas in a liquid is proportional to its partial pressure above the liquid. The proportionality factor is called Henry's law constant.",
+        "8": "Answer : \n\nchlorine\n\n\n\nExplanation: \n\nMost commonly used bleaching agent is chlorine. The most widely used bleach in the United States is liquid chlorine bleach, an alkaline aqueous solution of sodium hypochlorite.",
+        "9": "Answer : \n\n1 proton only\n\n\n\nExplanation: \n\nMost hydrogen atoms have nuclei that consist of a single proton, but a small fraction (about 0.015 percent) of the hydrogen atoms that occur in Nature have one neutron in addition to the proton in their nuclei."
+    }
+
+]
