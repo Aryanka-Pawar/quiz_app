@@ -16,10 +16,6 @@ install it on emulator or a real device.
 
 ## About Project Structure
 
-➔ There is an apk in "Apk File" folder.
-
-➔ There is a video of the app in "Apk Video" folder.
-
 ➔ In assets folder, there are many json files based on different subjects to get a question set(question, answer, options).
 
 ➔ Inside lib folder, there are three folders, 1.Model, 2.Pages, 3.Shared and a main.dart file which is the starting point of the app.
