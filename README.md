@@ -1,6 +1,21 @@
 # Quiz App
 
-The Flutter project to take exam from different subjects. You can assign date, time and duration of the exam.
+A Flutter project to take exam from different subjects. You can assign date, time and duration of the exam.
+
+## Screenshots
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/1.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/2.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/3.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/4.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/5.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/6.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/7.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/8.jpeg" width="100"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/quiz_app/master/screenshots/9.jpeg" width="100"/>
+</p>
+
 
 ## To Run The Project 
 
